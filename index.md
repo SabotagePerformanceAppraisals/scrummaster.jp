@@ -7,7 +7,7 @@ read_time: false
 ## スクラム
 {% include video id="zaP3RPQc3EY?rel=0" provider="youtube" %}
 スクラム導入後にアジリティが減少してしまう理由：プロダクトオーナーの役割に対する誤解、その悪影響および対処法について
-[![comic book version](../images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-jp.png)](/jp) 
+[![comic book version](../images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-jp.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-jp.pdf) 
 
 
 日本語でご覧いただけるMJの他の著作は以下の通りです。
