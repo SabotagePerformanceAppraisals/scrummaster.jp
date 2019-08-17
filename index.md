@@ -15,11 +15,6 @@ read_time: false
 * [スクラムマスターチェックリスト](http://scrummasterchecklist.org/pdf/Scrum-Master-Checklist-jp.pdf)
 * [スクラムのイントロダクション](https://docs.google.com/document/d/e/2PACX-1vTyD9f0SBwHN9b8uAU5kTD6YxqePN2Cdbux-6hCpTu-mx9_zfhQjIkB8ojogdIBEw_ozpsV4YWh7UrH/pub)
  
-また読む。
-* [Larman’s Laws (日本語)](https://seattlescrum.com/larmans-laws-jp/)
-* [アジャイルソフトウェア開発宣言](http://agilemanifesto.org/iso/ja/manifesto.html)
-* [アジャイル宣言の背後にある原則](http://agilemanifesto.org/iso/ja/principles.html)
-* [トレーニングを探す](https://www.odd-e.jp/training/)
 
 
 [![Odd](/images/Odd-e-logo.svg){: width="10%" .align-center }](https://www.odd-e.jp/)
