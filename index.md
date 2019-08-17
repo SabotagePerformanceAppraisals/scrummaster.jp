@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: posts
 author_profile: true
 title: 日本語でご覧いただけるMJの著作
 read_time: false
@@ -20,4 +20,8 @@ read_time: false
 * [アジャイルソフトウェア開発宣言](http://agilemanifesto.org/iso/ja/manifesto.html)
 * [アジャイル宣言の背後にある原則](http://agilemanifesto.org/iso/ja/principles.html)
 * [トレーニングを探す](https://www.odd-e.jp/training/)
+
+
+[![Odd](/images/Odd-e-logo.svg){: width="10%" .align-center }](https://www.odd-e.jp/)
+
 ---
