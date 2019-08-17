@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "日本のスクラム"
+title                    : "スクラムマスター"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "日本のスクラム"
+subtitle                 : "スクラムとLeSSを理解します。 優秀なスクラムマスターになります。" # site tagline that appears below site title in masthead
+name                     : "MJ"
+description              : "優秀なスクラムマスターになります。"
 url                      : "https://scrummaster.jp" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,8 +94,11 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : MJ # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - https://twitter.com/michaeldotjames
+    - https://www.linkedin.com/in/michaeljamesseattle/
+    - https://www.youtube.com/channel/UClZWfQtgi5d5pvwEq5v9XTw
 
 # Analytics
 analytics:
@@ -108,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "MJ"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/MJ_headshot_line_drawing.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "私は徐々に日本に移動しています。"
   location         : 
   email            :
@@ -116,6 +119,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/michaeldotjames"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/michaeljamesseattle/
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: https://www.youtube.com/channel/UClZWfQtgi5d5pvwEq5v9XTw
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
