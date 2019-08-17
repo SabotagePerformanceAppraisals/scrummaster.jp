@@ -111,8 +111,8 @@ analytics:
 # Site Author
 author:
   name             : "MJ"
-  avatar           : /images/Scrum-Master-URL-logo.png #"/images/MJ_headshot_line_drawing.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "私は徐々に日本に移動しています。"
+  avatar           : "/images/Scrum-Master-URL-logo.png" #"/images/MJ_headshot_line_drawing.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "私は日本で活動しています。"
   location         : 
   email            :
   links:
