@@ -1,6 +1,7 @@
 ---
 title: 教育イベント
 permalink: /events
+author_profile: true
 ---
 ## 日本のアジャイルとスクラムに関する推奨教育イベント
 * [トレーニングを探す](https://www.odd-e.jp/training/) 私たちは通常秋葉原で教えています。
