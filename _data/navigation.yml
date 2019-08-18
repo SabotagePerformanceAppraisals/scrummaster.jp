@@ -1,7 +1,10 @@
 # main links
 main:
+  - title: "comics"
+    url: /comics
   - title: "また読む"
     url: /read-also
+  #  description: "Articles, videos, and other resources."
   - title: "教育イベント"
     url: /events
   # - title: "About"
