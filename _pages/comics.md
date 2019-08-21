@@ -1,6 +1,6 @@
 ---
 permalink: /comics
-title: Comics
+title: "漫画"
 author_profile: true
 ---
 ## Volume 1 Episode 1 : 

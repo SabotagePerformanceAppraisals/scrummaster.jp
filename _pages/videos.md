@@ -25,5 +25,6 @@ toc: true
 {% include video id="u6XAPnuFjJc?rel=0" provider="youtube" %}
 {% include video id="2NFH3VC6LNs?rel=0" provider="youtube" %}
 {% include video id="DYu_bGbZiiQ?rel=0" provider="youtube" %}
+{% include video id="HNVJSGYUIjc?rel=0" provider="youtube" %}
 
-<http://scrumtrainingseries.com/BacklogRefinementMeeting)> (BacklogRefinementMeeting)
+* [バックログリファインメント](http://scrumtrainingseries.com/BacklogRefinementMeeting) これを日本語に翻訳してください！
