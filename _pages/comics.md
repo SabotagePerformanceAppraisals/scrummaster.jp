@@ -13,6 +13,6 @@ author_profile: true
 * [シーン4B: プロダクトオーナーの役割を誤解すると、どのように価値のデリバリーが妨げられるのでしょうか？](/comics/volume-1-episode-1/scene-4b-how-does-bad-scrum-reduce-value)
 * [シーン5: プロダクトオーナーの役割を誤ったまま果たすことは、なぜ不可能なのでしょうか？](/comics/volume-1-episode-1/scene-5-what-sucks-about-being-a-team-output-owner)
 * [シーン6: チームの自己管理能力や機能横断性を高めつつ、プロダクトオーナーの役割を間違えて行き詰まっている人を救い出す方法はありますか？](/comics/volume-1-episode-1/scene-6-how-to-rescue-the-team-output-owner)
-* [シーン7: なぜ「チーフプロダクトオーナー」は間違いなのでしょうか？](/comics/volume-1-episode-1-scene-7-there-aint-no-chief-product-owner)
+* [シーン7: なぜ「チーフプロダクトオーナー」は間違いなのでしょうか？](/comics/volume-1-episode-1/scene-7-there-aint-no-chief-product-owner)
 
 [Other languages (English, 中文, etc.)](https://seattlescrum.com/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
