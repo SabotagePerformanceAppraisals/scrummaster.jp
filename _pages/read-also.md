@@ -3,7 +3,13 @@ title: また読む
 author_profile: true
 permalink: /read-also
 ---
-## Recommended reading (日本語)
+
+## 日本語でご覧いただけるMJの他の著作は以下の通りです。
+* [スクラムリファレンスカード](http://scrumreferencecard.com/ScrumReferenceCard-jp.pdf)
+* [スクラムマスターチェックリスト](http://scrummasterchecklist.org/pdf/Scrum-Master-Checklist-jp.pdf)
+* [スクラムのイントロダクション](https://docs.google.com/document/d/e/2PACX-1vTyD9f0SBwHN9b8uAU5kTD6YxqePN2Cdbux-6hCpTu-mx9_zfhQjIkB8ojogdIBEw_ozpsV4YWh7UrH/pub)
+
+## Other Recommended reading (日本語)
 
 * [Larman’s Laws (日本語)](https://seattlescrum.com/larmans-laws-jp/)
 * [アジャイルソフトウェア開発宣言](http://agilemanifesto.org/iso/ja/manifesto.html)
