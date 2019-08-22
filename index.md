@@ -1,7 +1,7 @@
 ---
 layout: posts
 author_profile: true
-title: 日本語でご覧いただけるMJの著作
+title: スクラム導入後にアジリティが減少してしまう理由：プロダクトオーナーの役割に対する誤解、その悪影響および対処法について
 read_time: false
 ---
 
