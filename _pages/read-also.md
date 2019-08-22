@@ -20,3 +20,6 @@ permalink: /read-also
 * If you have more than 12 people in your company, [avoid the most common Scrum mistakes](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-jp.pdf) and read [大規模スクラム-Large-Scale-Scrum-LeSS-アジャイルとスクラムを大規模に実装する方法](https://www.amazon.co.jp/大規模スクラム-Large-Scale-Scrum-LeSS-アジャイルとスクラムを大規模に実装する方法/dp/462130366X/).
 * Ken Schwaber suspected that "Scrum of Scrums" was a mistake in 2003. Today it still reduces agility.  [Read about 7 alternatives](https://less.works/jp/less/framework/coordination-and-integration.html).
 
+* [レガシーコード改善ガイド](http://amzn.asia/8hMbb8U)
+* もし、あなたの人生で口論の時間を減らしたいのであれば、マーシャル・B・ローゼンバーグ氏の [NVC
+人と人との関係にいのちを吹き込む法](http://amzn.asia/hqRNTS7) をお勧めします。初心者にも関わらず、わたしが口論に使う時間は半分になりました。
