@@ -2,12 +2,12 @@
 main:
   - title: "動画"
     url: /videos
-  - title: "漫画"
-    url: /comics
   - title: "また読む"
     url: /read-also
   - title: "教育イベント"
     url: /events
+  - title: "漫画"
+    url: /comics
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
