@@ -2,6 +2,8 @@
 main:
   - title: "動画"
     url: /videos
+  - title: "私見"
+    url: /articles
   - title: "また読む"
     url: /read-also
   - title: "教育イベント"
