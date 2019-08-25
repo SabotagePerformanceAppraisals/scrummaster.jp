@@ -2,6 +2,7 @@
 title: 教育イベント
 permalink: /events
 author_profile: true
+toc: true
 ---
 ## 日本のアジャイルとスクラムに関する推奨教育イベント
 
@@ -13,9 +14,17 @@ author_profile: true
 
 [![Tokyo CSD Class](/images/tokyo-CSD-class.jpg)](https://www.odd-e.jp/ja/service_01/#link_csd)
 
+### トレーニングを探す CLB (Certified LeSS Basics)
+
+![Tokyo CLB Class](/images/tokyo-CLB-class.jpg)
+
 ### トレーニングを探す CLP (Certified LeSS Practitioner)
 
+![Tokyo CLP Class](/images/tokyo-CLP-class.jpg)
+
 ## Community Events
+
+### Scrum Masters Night
 
 ![Scrum Masters Night](/images/scrum-masters-night-1.jpg)
 Meet 先生榎本明仁 and MJ at [Scrum Masters Night](https://smn.connpass.com/) スクラムマスターのための、スクラムマスターによる参加者全員が主役な課題解決型イベント、Scrum Masters Night!です。
