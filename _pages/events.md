@@ -16,7 +16,7 @@ toc: true
 
 ### トレーニングを探す CLB (Certified LeSS Basics)
 
-![Tokyo CLB Class](/images/tokyo-CLB-class.jpg)
+[![Tokyo CLB Class](/images/tokyo-CLB-class.jpg)](/certified-less-basics-clb-course-description/)
 
 ### トレーニングを探す CLP (Certified LeSS Practitioner)
 
