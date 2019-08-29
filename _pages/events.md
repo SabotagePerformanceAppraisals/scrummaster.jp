@@ -20,7 +20,7 @@ toc: true
 
 ### トレーニングを探す CLP (Certified LeSS Practitioner)
 
-![Tokyo CLP Class](/images/tokyo-CLP-class.jpg)
+[![Tokyo CLP Class](/images/tokyo-CLP-class.jpg)](https://www.odd-e.jp/training/course-detail/62)
 
 ## Community Events
 
