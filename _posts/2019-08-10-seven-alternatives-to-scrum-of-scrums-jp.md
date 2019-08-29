@@ -53,7 +53,7 @@ toc: true
 ## 調整と統合：代わりの方法
 ![壁を壊せ!](/images/tear-down-the-wall.png)
 
-以下の方法についての説明は、全てhttps://less.works/jp/less/framework/coordination-and-integration.htmlからの引用となっています。
+以下の方法についての説明は、全て<https://less.works/jp/less/framework/coordination-and-integration.html>からの引用となっています。
 
 > 従来のプロジェクトマネージメントでは管理された調整が行われてきました。スクラムでは集中管理ではなく、分散と自己組織化された調整と統合に価値があると考えます。LeSSでは必要十分な境界線と構造を提供し、カオスな状態になるのを回避し、分散型で調整が可能な状態になることを重視しています。
 >
