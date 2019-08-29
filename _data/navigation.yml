@@ -4,7 +4,7 @@ main:
     url: /videos
   - title: "私見"
     url: /articles
-  - title: "また読む"
+  - title: "参考資料"
     url: /read-also
   - title: "教育イベント"
     url: /events
