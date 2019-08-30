@@ -9,7 +9,7 @@ toc: true
 では最初に、実用的なリンクをこの記事で紹介しておきましょう。記事を読む時間のない人は、<https://less.works/jp/less/framework/coordination-and-integration.html>で、７つの代替方法の概要を読むことができます。
 
 
-![スクラム・オブ・スクラムは最悪だ](/images/scrum-of-scrums-sucks.png)
+![スクラム・オブ・スクラムは最悪だ](/images/scrum-of-scrums-sucks.png){: .align-center width="70%"}
 
 ## スクラム・オブ・スクラムの背景
 
@@ -50,7 +50,7 @@ toc: true
 * * *
 
 ## 調整と統合：代わりの方法
-![壁を壊せ!](/images/tear-down-the-wall.png)
+![壁を壊せ!](/images/tear-down-the-wall.png){: .align-center width="70%"}
 
 以下の方法についての説明は、全て<https://less.works/jp/less/framework/coordination-and-integration.html>からの引用となっています。
 
