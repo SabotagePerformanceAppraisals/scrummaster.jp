@@ -22,9 +22,9 @@ toc: true
 
 [![Tokyo CLP Class](/images/tokyo-CLP-class.jpg)](https://www.odd-e.jp/training/course-detail/62)
 
-## Community Events
+## コミュニティ・イベント
 
-### Scrum Masters Night
+### スクラムマスター・ナイト
 
 ![Scrum Masters Night](/images/scrum-masters-night-1.jpg)
 Meet 先生榎本明仁 and MJ at [Scrum Masters Night](https://smn.connpass.com/) スクラムマスターのための、スクラムマスターによる参加者全員が主役な課題解決型イベント、Scrum Masters Night!です。
