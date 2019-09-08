@@ -18,7 +18,7 @@ read_time: false
 
 システム思考家であり、システム思考の提唱者であるJohn Seddon氏曰く、「組織の文化を変えようとする事は愚かな試みです。なぜなら、そのような試みは常に失敗するからです。人々のふるまい（文化）は体制により作られるからです。もしあなたが体制を変えれば人々のふるまいは変わるでしょう。」
 
-![Craig Larman](/images/craig-larman.png)
+![Craig Larman](/images/craig-larman.png){: .align-right}
 
 Translation by Aki Enomoto and Yoko Hinoue.
 
