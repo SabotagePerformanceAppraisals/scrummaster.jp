@@ -27,3 +27,4 @@ read_time: false
 
 ![Aki writing](/images/aki-writing.jpg)
 
+[English](https://docs.google.com/document/d/1_-RuYRI7_eNYdOdqFEVda9tsEZqvwfVoUrUY7PZnyEM/edit?usp=sharing)
