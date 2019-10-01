@@ -9,7 +9,7 @@ toc: true
 ### 日本語字幕付きの動画
 
 * Yves Morieux [How Too Many Rules At Work Keep You From Getting Things Done](https://www.ted.com/talks/yves_morieux_how_too_many_rules_at_work_keep_you_from_getting_things_done)
-(最初の2分間をスキップして、2時26分から開始してください。)
+(最初の2分間をスキップして、2分26秒から開始してください。)
 
 {% include video id="H0_yKBitO8M?rel=0" provider="youtube" %}
 {% include video id="1BZf_Oa7W94?rel=0" provider="youtube" %}
