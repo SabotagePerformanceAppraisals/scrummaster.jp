@@ -27,6 +27,8 @@ header:
 
 読者の皆さん、あなた方がご自身の状況において何をするべきかは私には分かりません。せめてこの記事によって、スクラムにおいてはチームの数に関わらずプロダクトごとに1つのプロダクトバックログしか存在しない理由をお分かりいただけたなら幸いです。
 
+English version is at <https://seattlescrum.com/misconception-2-all-teams-are-working-on-equal-value/>
+
 * * *
 
 {% include video id="YYOKMUTTDdA?rel=0" provider="youtube" %}
