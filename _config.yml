@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ja-JP"
 title                    : "スクラムマスター"
 title_separator          : "-"
-subtitle                 : "スクラムとLeSSを理解します。 優秀なスクラムマスターになります。" # site tagline that appears below site title in masthead
+subtitle                 : "スクラムとLeSSを理解し、優秀なスクラムマスターを目指しましょう。" # site tagline that appears below site title in masthead
 name                     : "MJ"
-description              : "優秀なスクラムマスターになります。"
+description              : "優秀なスクラムマスターを目指しましょう。"
 url                      : "https://scrummaster.jp" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
