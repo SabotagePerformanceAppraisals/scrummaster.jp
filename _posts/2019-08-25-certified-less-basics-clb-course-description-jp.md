@@ -1,9 +1,14 @@
 ---
 title: "認定LeSS基礎研修（CLB）(Certified LeSS Basics)"
 read_time: false
+header:
+   og_image: /images/certified-less-basics-og.png
+   teaser: /images/certified-less-basics-og.png
 ---
 
 大規模スクラム（LeSS）とは、複雑なプロダクト（典型的にはソフトウェア）を複数のチームで開発するためのアジャイルなアプローチです。LeSSはスクラムにインスパイアされたものです。ただし、スクラムガイドが適するのは12人以下の会社のみですが、LeSSは20人、200人、または数千人規模の会社の問題にも対応しています。LeSSを用いれば、真のアジリティーつまり、事実が明らかになっていくにつれ、それを学習し、適応していく組織の能力ーを向上させることができます。
+
+![Certified LeSS Basics Badge](/images/certified-less-basics.png){: .align-right width="20%"}
 
 認定LeSS基礎研修（CLB）は、既にスクラムやアジャイルをご存じの方を対象とした１日のLeSS入門講座です。参加者は、既に認定スクラムマスター研修（CSM）を修了しているか、あるいは本講座の受講前にCSMのトピックについて自習していることが望ましいでしょう。
 
