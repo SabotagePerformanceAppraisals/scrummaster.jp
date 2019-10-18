@@ -23,8 +23,13 @@ read_time: false
 
 本講義は、所要３日間の認定LeSS実践者研修（CLP）とは異なることにご注意ください。
 
-本CLB研修の担当者は、スクラムマスターチェックリスト（及び、その他日本語で利用可能な多数の情報源）の著者であるMJ、及びアジャイルコーチの榎本明仁先生です。榎本先生は現在、複数チームを有する二つの組織と共に働いており、その中には消費者向けロボットを開発する企業へのLeSSの適応が含まれています。
+本CLB研修の担当者は、スクラムマスターチェックリスト（及び、その他日本語で利用可能な多数の情報源）の著者であるMJ、及びアジャイルコーチの榎本明仁氏です。榎本氏は現在、複数チームを有する二つの組織と共に働いており、その中には消費者向けロボットを開発する企業へのLeSSの適応が含まれています。
 
 ![Aki writing](/images/aki-writing.jpg)
+{::comment} Our next CLB workshop will be integrated into a CSM workshop, resulting in this 3-day workshop. {:/comment}
+次回のCLB研修はCSM研修に統合されるため、全3日間の行程となります。
+
+<https://www.odd-e.jp/training/course-detail/67>
+
 
 [English](https://docs.google.com/document/d/1_-RuYRI7_eNYdOdqFEVda9tsEZqvwfVoUrUY7PZnyEM/edit?usp=sharing)
