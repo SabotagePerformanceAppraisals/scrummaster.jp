@@ -31,5 +31,4 @@ read_time: false
 
 <https://www.odd-e.jp/training/course-detail/67>
 
-
 [English](https://docs.google.com/document/d/1_-RuYRI7_eNYdOdqFEVda9tsEZqvwfVoUrUY7PZnyEM/edit?usp=sharing)
