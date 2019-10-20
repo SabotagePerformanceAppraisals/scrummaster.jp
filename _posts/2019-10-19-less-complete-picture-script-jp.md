@@ -35,7 +35,7 @@ Here's a quick glance at the LeSS Complete Picture.
 First we'll look at 10 principles at the heart of LeSS.
 {:/comment}
 
-まずは、LeSSの中心となる10個の原則をみていきましょう。
+まずは、LeSSの核となる10個の原則をみていきましょう。
 
 {::comment}
 The principles were learned empirically, meaning through experiments. Back in 2005 Craig Larman and Bas Vodde started experimenting with agile practices on large products. They documented 500 Agile experiments in their first two scaling books, then spent a few years distilling their continued experience down to these principles.
@@ -67,7 +67,7 @@ It's often tempting to create more specialized roles (like architect, release tr
 We're better able to collaborate with each other and the customer with fewer artifacts, handoffs, and fancy tools in the way. We want working products that meet the customer's needs, not intermediate inventory.
 {:/comment}
 
-チーム内や顧客との間に、アーチファクト、引き継ぎの業務、手の込んだツールなどが少なければ少ないほど、連携は上手くいきます。欲しいのは、顧客が求める機能するプロダクトであって、中間生産物ではないのです。
+チーム内や顧客との間に、アーチファクト、引き継ぎの業務、手の込んだツールなどが少なければ少ないほど、連携は上手くいきます。求めているものは、顧客のニーズに合った、機能するプロダクトであって、中間生産物ではないのです。
 
 {::comment}
 There's more learning and fun when there's less burdensome process.
@@ -138,7 +138,7 @@ LeSS started with experiments in Scrum and agility, eventually leading to everyt
 
 ## 『実験』
 
-LeSSは、スクラムとアジリティの実験から始まり、ここでお話しした全ての内容を含むものに発展しました。はじめの２冊の本は数百もの実験を解説した分厚い本ですが、その内容にはみなさんの環境で有用なものも、そうでないものもあるでしょう。。３冊目の本には、ガイド、フレームワークのルールや原則が書かれているので、まずはこれからお読みください。
+LeSSは、スクラムとアジリティの実験から始まり、ここでお話しした全ての内容を含むものに発展しました。はじめの２冊の本は数百もの実験を解説した分厚い本ですが、その内容にはみなさんの環境で有用なものも、そうでないものもあるでしょう。３冊目の本には、ガイド、フレームワークのルールや原則が書かれているので、まずはこれからお読みください。
 
 {::comment}
 I'm MJ at the Seattle Scrum Company. I'm doing this because most of the companies I work with won't get the agility that Scrum promises without the fundamental organizational design changes in LeSS.
