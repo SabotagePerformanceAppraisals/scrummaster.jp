@@ -2,8 +2,8 @@
 title: "LeSS全体像スクリプト"
 excerpt: "これがLeSSの簡単な全体像です。 まずは、LeSSの中心となる10個の原則をみていきましょう。"
 header:
-   og_image: /images/less-complete-picture-jp.png
-   teaser: /images/less-complete-picture-jp.png
+   og_image: /images/less-complete-picture-jp-og.svg
+   teaser: /images/less-complete-picture-jp-og.svg
 ---
 {::comment}
 # LeSS Complete Picture Script
