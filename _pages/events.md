@@ -8,7 +8,7 @@ toc: true
 
 ### CSM研修を探す  (Certified Scrum Master) 
 
-[研修は通常、秋葉原で開催されています。![Tokyo CSM Class](/images/tokyo-CSM-class-wide-3.jpg)](https://www.odd-e.jp/ja/service_01/#link_csm) 
+[研修は通常、秋葉原で開催されています。![Tokyo CSM Class](/images/tokyo-CSM-class-wide-3.jpg)](https://www.odd-e.jp/training/) 
 
 ### CSD研修を探す (Certified Scrum Developer)
 
