@@ -2,7 +2,7 @@
 title: "LeSS全体像スクリプト"
 excerpt: "これがLeSSの簡単な全体像です。 まずは、LeSSの中心となる10個の原則をみていきましょう。"
 header:
-   og_image: /images/less-complete-picture-jp-og.svg
+   og_image: /images/less-complete-picture-jp-og.png
    teaser: /images/less-complete-picture-jp-og.svg
 ---
 {::comment}
@@ -153,6 +153,7 @@ True agility is a difficult path for most companies, so the third book introduce
 ![guides](/images/less-complete-picture-guides.png){: .align-center width="400"}
 
 {::comment}
+
 ## EXPERIMENTS
 
 LeSS started with experiments in Scrum and agility, eventually leading to everything else we've discussed. The first two books are quite thick and describe hundreds of experiments, some of which will be useful in your context, and some won't. The third book has the guides, framework rules, and principles, so read that first.
