@@ -11,7 +11,7 @@ header:
 
 {% include video id="cvz4364pC0g?rel=0" provider="youtube" %}
 
-![LeSS Complete Picture](/images/less-complete-picture-jp.png){: .align-right width="40%"}
+![LeSS Complete Picture](/images/less-complete-picture-jp.png){: .align-center width="50%"}
 
 {::comment}
 LeSS has been used with a dozen people, hundreds of people, and thousands of people.
@@ -103,7 +103,7 @@ A LeSS framework is "barely sufficient to kickstart empirical process control an
 
 LeSSのフレームワークは「プロダクト全体思考及び経験的プロセス制御のために必要最小限のもの」です。スクラムやチェスのように、LeSSとは、過剰なプロセスを避けるための「最小限」のシンプルなルールなのです。
 
-![Two LeSS frameworks](/images/less-complete-picture-two-less-frameworks.png){: .align-center width="400"}
+![Two LeSS frameworks](/images/less-complete-picture-frameworks-jp.png){: .align-center width="250"}
 
 {::comment}
 The basic LeSS framework is for 2 - about 8 teams (50 people), and LeSS Huge is for 8 or more teams and sometimes thousands of people on enormous products.
@@ -150,7 +150,7 @@ True agility is a difficult path for most companies, so the third book introduce
 
 ほとんどの会社にとって、真のアジリティに到達するのは簡単な道のりではありません。そこで、3冊目の本では「ガイド」が示されました。ガイドとは、ほとんどの場合に有用な、力のこもった勧告やヒントであって、ルールではありません。例としては、次のようなトピックがあります。８チーム以下の場合にどのように始めるか。８チーム以上の場合にはどのような弊害が起こる可能性があるのか、特に、複数チームでのプロダクトバックログリファインメントをどうするか、１スプリントには一見大きすぎる要求事項をどうやって分割するか、どうやって正気を保つか、等です。
 
-![guides](/images/less-complete-picture-guides.png){: .align-center width="400"}
+![guides](/images/less-complete-picture-guides-jp.png){: .align-center width="300"}
 
 {::comment}
 
