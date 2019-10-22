@@ -109,7 +109,7 @@ LeSSのフレームワークは「プロダクト全体思考及び経験的プ�
 The basic LeSS framework is for 2 - about 8 teams (50 people), and LeSS Huge is for 8 or more teams and sometimes thousands of people on enormous products.
 {:/comment}
 
-基本的なLeSSのフレームワークは、2つから概ね8つ（50人）程度のチームに適しています。[LeSS Huge](https://less.works/jp/less/less-huge/index.html)の場合は8つ以上のチーム、時には巨大なプロダクト開発を行う数千人のチームが使うこともできます。
+基本的なLeSSのフレームワークは、2つから概ね8つ（50人）程度のチームに適しています。[LeSS Huge](https://less.works/jp/less/less-huge/index.html)の場合は8つ以上のチーム、時には巨大なプロダクト開発を行う数千のチームが使うこともできます。
 
 ![LeSS Framework](/images/less-framework-jp.png)
 ![LeSS Huge Framework](/images/less-huge-framework-jp.png)
