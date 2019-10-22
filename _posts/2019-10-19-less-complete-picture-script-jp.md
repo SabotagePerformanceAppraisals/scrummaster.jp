@@ -37,6 +37,8 @@ First we'll look at 10 principles at the heart of LeSS.
 
 まずは、LeSSの核となる10個の原則をみていきましょう。
 
+![principles](/images/principles-at-the-heart-of-less.png){: .align-center}
+
 {::comment}
 The principles were learned empirically, meaning through experiments. Back in 2005 Craig Larman and Bas Vodde started experimenting with agile practices on large products. They documented 500 Agile experiments in their first two scaling books, then spent a few years distilling their continued experience down to these principles.
 {:/comment}
@@ -51,6 +53,8 @@ Let's touch on "more with less."
 
 「減らせば増える（more with less）」という考え方について、触れていきましょう。
 
+![more with less](/images/more-with-less.png){: .align-center}
+
 {::comment}
 We get more responsible teams when we resist the urge to carve out so many distinct roles.
 {:/comment}
@@ -63,17 +67,23 @@ It's often tempting to create more specialized roles (like architect, release tr
 
 より専門分野に特化したな役職（例えば、アーキテクト、リリース列車エンジニア、多くの様々な中間管理職や、様々な権威職など）を作るということは、しばしば魅力的に見えるものです。ですが、役職者に特定の責任を付与するということは、その責任をチームから取り上げていることでもあるのです。スクラムやLeSSでは、逆に役職の数を減らします。責任の分断を減らすことでチームの自律が促進され、結果的には柔軟性のあるシンプルな組織へとつながります。
 
+![more responsible teams with fewer role distinctions](/images/more-responsible-teams-with-fewer-role-distinctions.png){: .align-center}
+
 {::comment}
 We're better able to collaborate with each other and the customer with fewer artifacts, handoffs, and fancy tools in the way. We want working products that meet the customer's needs, not intermediate inventory.
 {:/comment}
 
 チーム内や顧客との間に、アーチファクト、引き継ぎの業務、手の込んだツールなどが少なければ少ないほど、連携は上手くいきます。求めているものは、顧客のニーズに合った、機能するプロダクトであって、中間生産物ではないのです。
 
+![with fewer artifacts](/images/with-fewer-artifacts.png){: .align-center}
+
 {::comment}
 There's more learning and fun when there's less burdensome process.
 {:/comment}
 
 面倒なプロセスが少ないほど、より楽しく、より多くを学ぶことができます。
+
+![with less process](/images/with-less-process.png){: .align-center}
 
 {::comment}
 Big companies tend to turn these knobs the wrong way.  In LeSS we are quite explicit that an adaptable organization is not designed the way yours is right now.
@@ -85,7 +95,7 @@ Big companies tend to turn these knobs the wrong way.  In LeSS we are quite expl
 There are several ways to learn about the other principles at the heart of LeSS.
 {:/comment}
 
-その他のLeSSの中核的原則を学ぶ方法は、いくつかあります。
+その他の[LeSS](https://less.works/jp)の中核的原則を学ぶ方法は、[いくつかあります](https://www.amazon.co.jp/大規模スクラム-Large-Scale-Scrum-LeSS-アジャイルとスクラムを大規模に実装する方法/dp/462130366X/)。
 
 {::comment}
 A LeSS framework is "barely sufficient to kickstart empirical process control and whole-product focus." Just like Scrum (and chess), LeSS includes a *minimal* set of simple rules to avoid excess process.
@@ -93,11 +103,13 @@ A LeSS framework is "barely sufficient to kickstart empirical process control an
 
 LeSSのフレームワークは「プロダクト全体思考及び経験的プロセス制御のために必要最小限のもの」です。スクラムやチェスのように、LeSSとは、過剰なプロセスを避けるための「最小限」のシンプルなルールなのです。
 
+![Two LeSS frameworks](/images/less-complete-picture-two-less-frameworks.png){: .align-center}
+
 {::comment}
 The basic LeSS framework is for 2 - about 8 teams (50 people), and LeSS Huge is for 8 or more teams and sometimes thousands of people on enormous products.
 {:/comment}
 
-基本的なLeSSのフレームワークは、2つから概ね8つ（50人）程度のチームに適しています。LeSS Hugeの場合は8つ以上のチーム、時には巨大なプロダクト開発を行う数千人のチームが使うこともできます。
+基本的なLeSSのフレームワークは、2つから概ね8つ（50人）程度のチームに適しています。[LeSS Huge](https://less.works/jp/less/less-huge/index.html)の場合は8つ以上のチーム、時には巨大なプロダクト開発を行う数千人のチームが使うこともできます。
 
 ![LeSS Framework](/images/less-framework-jp.png)
 ![LeSS Huge Framework](/images/less-huge-framework-jp.png)
@@ -114,11 +126,19 @@ Large Scale Scrum is *Scrum*, not Scrum underneath layers of conventional manage
 
 大規模スクラムは「スクラム」であって、従来型の厚いマネージメント層の下に置かれるものではありません。
 
+![Large Scale Scrum is Scrum](/images/large-scale-scrum-is-scrum.png){: .align-center}
+
 {::comment}
 Again: A LeSS framework is barely sufficient to kickstart empirical process control and whole-product focus. Teams focus on the actual customer.
 {:/comment}
 
-繰り返しますが、LeSSのフレームワークは、プロダクト全体思考及び経験的プロセス制御のために必要最小限のものです。チームが力を注ぐ対象は実際の顧客です。
+繰り返しますが、LeSSのフレームワークは、プロダクト全体思考及び経験的プロセス制御のために必要最小限のものです。
+
+![empirical process control](/images/empirical-process-control.png) ![whole product focus](/images/whole-product-focus.png){: .align-right}
+
+チームが力を注ぐ対象は実際の顧客です。
+
+![customer centric](/images/customer-centric.png){: .align-center}
 
 {::comment}
 ## GUIDES
@@ -130,6 +150,8 @@ True agility is a difficult path for most companies, so the third book introduce
 
 ほとんどの会社にとって、真のアジリティに到達するのは簡単な道のりではありません。そこで、3冊目の本では「ガイド」が示されました。ガイドとは、ほとんどの場合に有用な、力のこもった勧告やヒントであって、ルールではありません。例としては、次のようなトピックがあります。８チーム以下の場合にどのように始めるか。８チーム以上の場合にはどのような弊害が起こる可能性があるのか、特に、複数チームでのプロダクトバックログリファインメントをどうするか、１スプリントには一見大きすぎる要求事項をどうやって分割するか、どうやって正気を保つか、等です。
 
+![guides](/images/less-complete-picture-guides.png){: .align-center}
+
 {::comment}
 ## EXPERIMENTS
 
@@ -138,7 +160,11 @@ LeSS started with experiments in Scrum and agility, eventually leading to everyt
 
 ## 『実験』
 
-LeSSは、スクラムとアジリティの実験から始まり、ここでお話しした全ての内容を含むものに発展しました。はじめの２冊の本は数百もの実験を解説した分厚い本ですが、その内容にはみなさんの環境で有用なものも、そうでないものもあるでしょう。３冊目の本には、ガイド、フレームワークのルールや原則が書かれているので、まずはこれからお読みください。
+LeSSは、スクラムとアジリティの実験から始まり、ここでお話しした全ての内容を含むものに発展しました。はじめの２冊の本は数百もの実験を解説した分厚い本ですが、その内容にはみなさんの環境で有用なものも、そうでないものもあるでしょう。
+
+![LeSS Complete Picture](/images/less-complete-picture-jp.png)
+
+３冊目の本には、ガイド、フレームワークのルールや原則が書かれているので、まずはこれからお読みください。
 
 [![LeSS book cover](/images/LeSS-book-cover.png){: .align-center width="40%"}](https://www.amazon.co.jp/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0-Large-Scale-Scrum-LeSS-%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%A8%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%82%92%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/dp/462130366X/)
 
@@ -147,3 +173,6 @@ I'm MJ at the Seattle Scrum Company. I'm doing this because most of the companie
 {:/comment}
 
 私は、シアトルスクラムカンパニーのMJと言います。私が一緒に仕事をしている会社のほとんどにおいて、スクラムで得られるはずのアジリティを達成するためには、根本的な組織のデザインをLeSSに変える必要があります。それが、この動画を作った理由です。
+
+![MJ's head](/images/MJ_headshot_line_drawing.png){: .align-center width="200"}
+![Odd-e logo](/images/Odd-e-logo.svg){: .align-center width="200"}
