@@ -30,6 +30,9 @@ header:
 
 本CLB研修の担当者は、スクラムマスターチェックリスト（及び、その他日本語で利用可能な多数の情報源）の著者であるMJ、及びアジャイルコーチの榎本明仁氏です。榎本氏は現在、複数チームを有する二つの組織と共に働いており、その中には消費者向けロボットを開発する企業へのLeSSの適応が含まれています。
 
+* [GROOVE X社のCEOによるキーノート・スピーチ](https://www.agilejapan.org/2019/session/keynote-03_GROOVE.pdf) -- こちらが、マネージャー不在の自己マネージチームによりゼロから立ち上げられた会社の興味深い一例です。CEOの林要（はやしかなめ）氏がプロダクトオーナーで、中間にチームアウトプットオーナーは存在していません。なおGROOVE X社は [榎本明仁氏](https://www.odd-e.jp/ja/team_02/) やこの分野に精通したスクラム・マスターにコーチングされています。
+* [GROOVE XがどうLeSSを活用しているか](https://www.agilejapan.org/2019/session/east1-1_GXSM.pdf).
+
 ![Aki writing](/images/aki-writing.jpg)
 {::comment} Our next CLB workshop will be integrated into a CSM workshop, resulting in this 3-day workshop. {:/comment}
 次回のCLB研修はCSM研修に統合されるため、全3日間の行程となります。

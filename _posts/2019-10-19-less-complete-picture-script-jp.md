@@ -177,3 +177,8 @@ I'm MJ at the Seattle Scrum Company. I'm doing this because most of the companie
 
 ![MJ's head](/images/MJ_headshot_line_drawing.png){: .align-center width="200"}
 ![Odd-e logo](/images/Odd-e-logo.svg){: .align-center width="200"}
+
+* * *
+
+* [GROOVE X社のCEOによるキーノート・スピーチ](https://www.agilejapan.org/2019/session/keynote-03_GROOVE.pdf) -- こちらが、マネージャー不在の自己マネージチームによりゼロから立ち上げられた会社の興味深い一例です。CEOの林要（はやしかなめ）氏がプロダクトオーナーで、中間にチームアウトプットオーナーは存在していません。なおGROOVE X社は [榎本明仁氏](https://www.odd-e.jp/ja/team_02/) やこの分野に精通したスクラム・マスターにコーチングされています。
+* [GROOVE XがどうLeSSを活用しているか](https://www.agilejapan.org/2019/session/east1-1_GXSM.pdf).
