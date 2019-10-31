@@ -5,6 +5,7 @@ classes: single
 header:
    og_image: /images/components-dont-fit-together.png
    teaser: /images/components-dont-fit-together.png
+excerpt: 'プロダクト開発のアジリティではなく、チームの「生産性」向上を目指すのでない限り、チームの繋がりをゼロにしようとするべきではないのです。'
 ---
 {::comment}
 title: 'Large Organization Software Development Misconception #4: Will Parts Made By Different Teams Fit Together By Magic?'
