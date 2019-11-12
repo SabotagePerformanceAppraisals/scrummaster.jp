@@ -5,7 +5,7 @@ classes: single
 header:
    og_image: /images/components-dont-fit-together.png
    teaser: /images/components-dont-fit-together.png
-excerpt: 'プロダクト開発のアジリティではなく、チームの「生産性」向上を目指すのでない限り、チームの繋がりをゼロにしようとするべきではないのです。'
+excerpt: 'チームの「生産性」向上ではなく、プロダクト開発のアジリティを目指すのであれば、チームの繋がりをゼロにするべきではないのです。'
 ---
 {::comment}
 title: 'Large Organization Software Development Misconception #4: Will Parts Made By Different Teams Fit Together By Magic?'
@@ -15,7 +15,7 @@ title: 'Large Organization Software Development Misconception #4: Will Parts Mad
 ## Misconception 4.1: Will Components From Different Teams Integrate Into A Feature Without Teams Working Together?
 {:/comment}
 
-## 誤解4.1：各チームが開発したコンポーネントを、チームの連携なしで一つの機能へ統合できるか？
+## 誤解4.1：各チームが開発したコンポーネントを、チームの連携なしで一つのフィーチャーに統合できるか？
 
 {::comment}
 By "components" I'm usually referring to architectural layers within the software, such as front end, back end, "platform," a device driver, etc.  Too many large organizations have teams that can only work on components.
@@ -24,7 +24,7 @@ By "components" I'm usually referring to architectural layers within the softwar
 *Avoid Component Teams and Delayed Integration*
 {:/comment}
 
-私が「コンポーネント」と言う場合は、通常、フロントエンド、バックエンド、「プラットフォーム」、デバイスドライバ等のソフトウェア内のアーキテクチャ層を意味しています。コンポーネントの作業しか行えないチームを有する大規模組織が余りにもたくさん存在します。
+私が「コンポーネント」と言う場合は、通常、フロントエンド、バックエンド、「プラットフォーム」、デバイスドライバ等のソフトウェア内のアーキテクチャ層を意味しています。コンポーネントの作業しか行えないチームを有する大規模組織があまりにもたくさん存在します。
 
 [![かみ合わないコンポーネント](../images/components-dont-fit-together.png)](/){: .align-center}
 *コンポーネントチームを無くしてインテグレーションの遅延を回避*
@@ -36,16 +36,16 @@ For Agility, we will usually prefer [feature teams](https://less.works/less/stru
 *Example Feature Teams*
 {:/comment}
 
-アジリティのために通常好ましいのは、複数のコンポーネントにまたがり、エンドツーエンドかつ顧客中心の機能を共有コードベースで開発できる[機能チーム](https://less.works/jp/less/structure/feature-teams.html)でしょう。*コンポーネントチーム*ではこのようなことは行いませんし、行う能力もありません。
+アジリティのために通常好ましいのは、複数のコンポーネントにまたがり、エンドツーエンドかつ顧客中心のフィーチャーを共有コードベースで開発できる[フィーチャーチーム](https://less.works/jp/less/structure/feature-teams.html)でしょう。*コンポーネントチーム*ではこのようなことは行いませんし、行う能力もありません。
 
-![機能チーム](../images/feature-teams.png){: .align-center}
-*機能チームの例*
+![フューチャーチーム](../images/feature-teams.png){: .align-center}
+*フューチャーチームの例*
 
 {::comment}
-If we're using modern programming practices (TDD, Continuous Integration, trunk-based development, etc.), transitioning to feature teams *may* reduce the coupling between teams a bit.  But not to zero.  In fact, we should *not* try to reduce team-to-team coupling to zero unless our goal is team "productivity" instead Product Development agility.
+If we're using modern programming practices (TDD, Continuous Integration, trunk-based development, etc.), transitioning to feature teams *may* reduce the coupling between teams a bit.  But not to zero.  In fact, we should *not* try to reduce team-to-team coupling to zero unless our goal is team "productivity" instead of Product Development agility.
 {:/comment}
 
-現代的なプログラミング手法（TDD、継続的インテグレーション、トランクベース開発など）を用いるのであれば、フィーチャーチームへ移行すればチーム間の切っても切れない繋がりを少しは減らせる**かも**しれませんが、ゼロにはできません。プロダクト開発のアジリティではなく、チームの「生産性」向上を目指すのでない限り、チームの繋がりをゼロにしようとするべきでは**ない**のです。
+現代的なプログラミング手法（TDD、継続的インテグレーション、トランクベース開発など）を用いるのであれば、フィーチャーチームへ移行すればチーム間の切っても切れない繋がりを少しは減らせる**かも**しれませんが、ゼロにはできません。チームの「生産性」向上ではなく、プロダクト開発のアジリティを目指すのであれば、チームの繋がりをゼロにするべきでは**ない**のです。
 
 {::comment}
 ### Misconception 4.1.1: Doesn't XYZ Technical Approach Eliminate The Need For Teams To Work Together?
@@ -85,7 +85,7 @@ But companies also want their product to do newer things than that, where *both 
 しかし企業は、プロダクトにもっと新しい機能を付けたいとも考えており、そこでは、インタラクションの**両サイド**が未だ変化し続けているため古いAPIでは不十分かもしれません。新たな機能を開発するために新しい種類の情報をソフトウェアの異なるパーツ間で共有する必要があるとすれば、開発者達は、それをどうやって行うか、そして新たな種類の情報とは何かについて、共通認識を作りあげねばなりません。
 
 {::comment}
-[Teams will need to talk to each other](https://less.works/less/framework/coordination-and-integration.html).  Remember what the [Agile Manifesto](https://agilemanifesto.org/principles.html) has to say about the most effective way of communicating?
+[Teams will need to talk to each other](/seven-alternatives-to-scrum-of-scrums).  Remember what the [Agile Manifesto](https://agilemanifesto.org/principles.html) has to say about the most effective way of communicating?
 {:/comment}
 
 [チームはお互いに対話する必要があるでしょう。](/seven-alternatives-to-scrum-of-scrums-jp)[アジャイルマニフェスト](https://agilemanifesto.org/iso/ja/principles.html)において、最も効率的なコミュニケーションの取り方とは何だったでしょうか？
@@ -138,7 +138,7 @@ So Scrum Masters should be encouraging collaboration across teams, just as they 
 It would be a bizarre business strategy for a 10-team product company to simultaneously, with the same intensity, develop 10 products that had nothing to do with each other.  (I'm focusing on a real *product company*, not a project-services company making bespoke software for a variety of clients.)  Companies don't gain competitive advantage by making products that don't work together.  (And we might have a few products from the past that we only maintain occasionally.  As discussed in [Misconception #2: Are All Teams Working On Equal Value Stuff?](/misconception-2-all-teams-are-working-on-equal-value/), they won't all warrant the same amount of attention.)
 {:/comment}
 
-仮に、10チームを有するプロダクト会社が相互に無関係なプロダクトを同時に10個、いずれも同じ集中力を注いで開発するとしたら、それは奇妙なビジネス戦略でしょう。（ここでは真の**プロダクト会社**について述べています。様々なクライアントに特注のソフトウェアを作成するプロジェクトサービス会社ではありません。）連携しないプロダクトを作っても、企業が競争の優位性を得ることはできないからです。（過去に開発した2，3個のプロダクトを時折保守管理する場合があるかもしれません。 [大規模組織におけるソフトウェア開発の誤解その２:すべてのチームが等しい価値の業務に取り組んでいるか？](/misconception-2-all-teams-are-working-on-equal-value/)で示したとおり、どれも同等の注意を惹く保証はありません。）
+仮に、10チームを有するプロダクト会社が相互に無関係なプロダクトを同時に10個、いずれも同じ集中力を注いで開発するとしたら、それは奇妙なビジネス戦略でしょう。（ここでは真の**プロダクト会社**について述べています。様々なクライアントに特注のソフトウェアを作成するプロジェクトサービス会社ではありません。）連携しないプロダクトを作っても、企業が競争の優位性を得ることはできないからです。（過去に開発した2，3個のプロダクトを時折保守管理する場合があるかもしれません。 [大規模組織におけるソフトウェア開発の誤解その２:すべてのチームが等しい価値の業務に取り組んでいるか？](/misconception-2-all-teams-are-working-on-equal-value-jp/)で示したとおり、どれも同等の注意を惹く保証はありません。）
 
 {::comment}
 Except in trivial cases where we aren't doing anything new, engineering effort will be required to ensure the products work together properly.  Take Adobe products (please):  The value of the various Adobe products I use is related to how well the integration works (or doesn't work) between them.  
@@ -149,7 +149,7 @@ Except in trivial cases where we aren't doing anything new, engineering effort w
 In some cases I can substitute incompatible products in my workflow by using the lowest-common-denominator interface to the otherwise-incompatible tool.  But that usually adds hassle and reduces functionality.  
 {:/comment}
 
-最少公分母のインターフェイスを用いることにより、業務フローで互換性のないプロダクトを代替できる場合もあります。ただしこのやり方は手間がかかり、機能が一部失われることもあります。
+共通項だけを持ち合わせた無難なインターフェイスを用いることにより、業務フローで互換性のないプロダクトを代替できる場合もあります。ただしこのやり方は手間がかかり、機能が一部失われることもあります。
 
 {::comment}
 For example, I can move a picture of a cartoon character from a drawing program into an incompatible e-learning editor.  But it takes extra steps to export a PNG file from one program and import it into the other.  And due to the loss of layering information in the PNG file format, I won't be able to change her facial expression from the e-learning editor.   
