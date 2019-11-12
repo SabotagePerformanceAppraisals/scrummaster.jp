@@ -2,6 +2,7 @@
 title: "面倒なスクラム・オブ・スクラムに取って替わる７つの方法"
 toc: true
 classes: single
+excerpt: 'スクラム・オブ・スクラム。問題発生から１6年、シュエイバーの否定から10年、なぜ未だにSoSは実践されているのか?'
 header:
    og_image: /images/teams-without-borders.png
    teaser: /images/teams-without-borders.png
