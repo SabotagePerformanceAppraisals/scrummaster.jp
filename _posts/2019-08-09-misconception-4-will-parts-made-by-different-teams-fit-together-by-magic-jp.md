@@ -172,7 +172,7 @@ One of my clients is in a domain largely devoid of prior standards and APIs beca
 For them it's worth the millions of dollars of effort they're expending to make them work together inside and outside.  It would be harmful to send them a typical Agile coach or Scrum trainer who is going to focus them on individual team productivity -- like I used to 15 years ago -- rather than the whole product.
 {:/comment}
 
-彼らは何百万ドルもの努力を費やしていますが、プロダクトが内外で連携することは、彼らにとって、その価値に見合うものなのです。もしもその企業に派遣されるコーチが、プロダクト全体思考ではなく、私が15年前にやっていたような個別チームの生産性にフォーカスさせる典型的なアジャイルコーチやスクラムトレーナーであったら、有害となるでしょう。
+彼らは何百万ドルもの労力を費やしていますが、プロダクトが内外で連携することは、彼らにとって、その価値に見合うものなのです。もしもその企業に派遣されるコーチが、プロダクト全体思考ではなく、私が15年前にやっていたような個別チームの生産性にフォーカスさせる典型的なアジャイルコーチやスクラムトレーナーであったら、有害となるでしょう。
 
 {::comment}
 ## History Of Attempts To Eradicate This Misconception
