@@ -1,6 +1,6 @@
 ---
 title: '大規模組織におけるソフトウェア開発の誤解その３：チームの視野は狭くて良いか、プロダクト全体を見るべきか?'
-excerpt: 'ほとんどの企業では、どのプロジェクトについても１１人以上が従事しています。彼らはスクラムを適合させる(局所最適化)ためだけに「プロダクト」を再定義し、プロダクト全体より狭い意味に変えてしまうことがあります。しかしこれは、言葉が本来の意図とは真逆のことを意味してしまう鏡の迷宮への入口なのです。'
+excerpt: 'ほとんどの企業では、どのようなプロダクトでも１１人以上が従事しています。彼らはスクラムを適合させる(局所最適化)ためだけに「プロダクト」を再定義し、プロダクト全体より狭い意味に変えてしまうことがあります。しかしこれは、言葉が本来の意図とは真逆のことを意味してしまう鏡の迷宮への入口なのです。'
 header:
   og_image: /images/product-owner-minus-whole-product-authority-equals-team-output-owner.png
   teaser: /images/product-owner-minus-whole-product-authority-equals-team-output-owner.png
