@@ -37,6 +37,6 @@ header:
 {::comment} Our next CLB workshop will be integrated into a CSM workshop, resulting in this 3-day workshop. {:/comment}
 次回のCLB研修はCSM研修に統合されるため、全3日間の行程となります。
 
-<https://www.odd-e.jp/training/course-detail/67>
+<https://www.odd-e.jp/training/course-detail/72>
 
 [English](https://docs.google.com/document/d/1_-RuYRI7_eNYdOdqFEVda9tsEZqvwfVoUrUY7PZnyEM/edit?usp=sharing)
