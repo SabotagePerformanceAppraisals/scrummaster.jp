@@ -167,7 +167,7 @@ LeSSは、スクラムとアジリティの実験から始まり、ここでお�
 
 ３冊目の本には、ガイド、フレームワークのルールや原則が書かれているので、まずはこれからお読みください。
 
-[![LeSS book cover](/images/LeSS-book-cover.png){: .align-center width="40%"}](https://www.amazon.co.jp/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0-Large-Scale-Scrum-LeSS-%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%A8%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%82%92%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/dp/462130366X/)
+[![LeSS book cover](/images/LeSS-book-cover.png){: .align-center width="180"}](https://www.amazon.co.jp/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0-Large-Scale-Scrum-LeSS-%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%A8%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%82%92%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/dp/462130366X/)
 
 {::comment}
 I'm MJ at the Seattle Scrum Company. I'm doing this because most of the companies I work with won't get the agility that Scrum promises without the fundamental organizational design changes in LeSS.
@@ -175,8 +175,8 @@ I'm MJ at the Seattle Scrum Company. I'm doing this because most of the companie
 
 私は、[Odd-e Japan](https://www.odd-e.jp)ニーのMJです。私がサービスを提供するほとんどの会社では、スクラムで得られるはずのアジリティを達成するためには、根本的な組織のデザインをLeSSに変える必要があります。それが、この動画を作った理由です。
 
-![MJ's head](/images/MJ_headshot_line_drawing.png){: .align-center width="200"}
-![Odd-e logo](/images/Odd-e-logo.svg){: .align-center width="200"}
+![MJ's head](/images/MJ_headshot_line_drawing.png){: .align-center width="100"}
+![Odd-e logo](/images/Odd-e-logo.svg){: .align-center width="100"}
 
 * * *
 

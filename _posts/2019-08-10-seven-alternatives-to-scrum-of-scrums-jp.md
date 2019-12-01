@@ -14,7 +14,7 @@ header:
 では最初に、実用的なリンクをこの記事で紹介しておきましょう。記事を読む時間のない人は、<https://less.works/jp/less/framework/coordination-and-integration.html>で、７つの代替方法の概要を読むことができます。
 
 ![スクラム・オブ・スクラムは最悪だ](/images/scrum-of-scrums-sucks.png){: .align-center width="70%"}
-
+* * *
 ## スクラム・オブ・スクラムの背景
 
 ### ブラックブック
@@ -150,6 +150,6 @@ header:
 最適化された環境下でチーム一つが持つ力を過小評価しないでください！以前仕事でかかわったことのある政府機関の開発部長が言っていたことですが、スクラムを導入するにあたり有能なチームを立ち上げようと思ったら、スタッフが40名いたにもかかわらず、わずか1チームしか立ち上げられないことに気付いたそうです。他にも、FBIが100人以上駆り出して処理できなかったことが、本部地下のオフィスで働く少人数のグループによって解決された、という話もあります。
 最適化された環境下でチーム一つが持つ力を過小評価しないでください！以前仕事でかかわったことのある政府機関の開発部長は、スクラムを導入するにあたり、有能なチームを立ち上げようと思ったら、40名いたスタッフの中でわずか一つしか作れないことに気づきました。他にも有名どころでは、FBIが100人以上駆り出して処理できなかったことが、本部地下のオフィスで働く少人数のグループによって解決された、という話もあります。
 
-![teams without borders](/images/teams-without-borders.png)
+![teams without borders](/images/teams-without-borders.png){: .align-center width="300"}
 
 英語版 <https://seattlescrum.com/seven-alternatives-to-scrum-of-scrums/>
