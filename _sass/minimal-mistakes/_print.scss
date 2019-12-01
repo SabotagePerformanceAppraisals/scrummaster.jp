@@ -14,6 +14,12 @@
     box-sizing: border-box;
   }
 
+
+  .page .page__inner-wrap {
+      float: none;
+  }
+
+
   html {
     margin: 0;
     padding: 0;
@@ -25,7 +31,7 @@
     margin: 0 auto;
     background: #fff !important;
     color: #000 !important;
-    font-size: 1rem;
+    font-size: 0.85rem;
     line-height: 1.5;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -45,23 +51,23 @@
   }
 
   h1 {
-    font-size: 2.5rem;
-  }
-
-  h2 {
-    font-size: 2rem;
-  }
-
-  h3 {
     font-size: 1.75rem;
   }
 
-  h4 {
+  h2 {
     font-size: 1.5rem;
   }
 
-  h5 {
+  h3 {
     font-size: 1.25rem;
+  }
+
+  h4 {
+    font-size: 1.12rem;
+  }
+
+  h5 {
+    font-size: 1.06rem;
   }
 
   h6 {
@@ -124,19 +130,18 @@
     text-decoration: none;
   }
 
+
   table,
-  blockquote,
   pre,
   code,
   figure,
   li,
   hr,
-  ul,
-  ol,
   a,
   tr {
     page-break-inside: avoid;
   }
+
 
   h2,
   h3,
@@ -146,6 +151,7 @@
     orphans: 3;
     widows: 3;
   }
+
 
   h1,
   h2,
@@ -163,6 +169,14 @@
     page-break-before: avoid;
   }
 
+// Workaround from https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading
+  h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {
+      content: "";
+      display: block;
+      height: 100px;
+      margin-bottom: -100px;
+  }
+
   img {
     page-break-after: auto;
     page-break-before: auto;
@@ -178,7 +192,7 @@
   a[href^='https://']:after,
   a[href^='ftp://']:after {
     content: " (" attr(href) ")";
-    font-size: 80%;
+    font-size: 70%;
   }
 
   abbr[title]:after,
@@ -239,12 +253,14 @@
   .pagination,
   .ads,
   .page__footer,
+  .page__meta,
   .page__comments-form,
   .author__avatar,
   .author__content,
   .author__urls-wrapper,
   .nav__list,
   .sidebar,
+  .responsive-video-container,
   .adsbygoogle {
     display: none !important;
     height: 1px !important;
