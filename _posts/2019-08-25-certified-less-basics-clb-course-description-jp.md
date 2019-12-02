@@ -8,7 +8,7 @@ header:
 
 大規模スクラム（LeSS）とは、複雑なプロダクト（典型的にはソフトウェア）を複数のチームで開発するためのアジャイルなアプローチです。LeSSはスクラムにインスパイアされたものです。ただし、スクラムガイドが適するのは12人以下の会社のみですが、LeSSは20人、200人、または数千人規模の会社の問題にも対応しています。LeSSを用いれば、真のアジリティーつまり、事実が明らかになっていくにつれ、それを学習し、適応していく組織の能力ーを向上させることができます。
 
-![Certified LeSS Basics Badge](/images/certified-less-basics.png){: .align-right width="20%"}
+![Certified LeSS Basics Badge](/images/certified-less-basics.png){: .align-right width="150"}
 
 認定LeSS基礎研修（CLB）は、既にスクラムやアジャイルをご存じの方を対象とした１日のLeSS入門講座です。参加者は、既に認定スクラムマスター研修（CSM）を修了しているか、あるいは本講座の受講前にCSMのトピックについて自習していることが望ましいでしょう。
 
@@ -24,7 +24,7 @@ header:
 * チーム数が９以上の場合に異なる点
 * LeSSにおける役割とは。誰が何をするのか。
 
-![MJ Tokyo CLB Class](/images/tokyo-CLB-class.jpg)
+![MJ Tokyo CLB Class](/images/tokyo-CLB-class.jpg){: .align-right width="300"}
 
 本講義は、所要３日間の認定LeSS実践者研修（CLP）とは異なることにご注意ください。
 
@@ -33,7 +33,7 @@ header:
 * [GROOVE X社のCEOによるキーノート・スピーチ](https://www.agilejapan.org/2019/session/keynote-03_GROOVE.pdf) -- こちらが、マネージャー不在の自己マネージチームによりゼロから立ち上げられた会社の興味深い一例です。CEOの林要（はやしかなめ）氏がプロダクトオーナーで、中間にチームアウトプットオーナーは存在していません。なおGROOVE X社は [榎本明仁氏](https://www.odd-e.jp/ja/team_02/) やこの分野に精通したスクラム・マスターにコーチングされています。
 * [GROOVE XがどうLeSSを活用しているか](https://www.agilejapan.org/2019/session/east1-1_GXSM.pdf).
 
-![Aki writing](/images/aki-writing.jpg)
+![Aki writing](/images/aki-writing.jpg){: .align-center width="300"}
 {::comment} Our next CLB workshop will be integrated into a CSM workshop, resulting in this 3-day workshop. {:/comment}
 次回のCLB研修はCSM研修に統合されるため、全3日間の行程となります。
 
