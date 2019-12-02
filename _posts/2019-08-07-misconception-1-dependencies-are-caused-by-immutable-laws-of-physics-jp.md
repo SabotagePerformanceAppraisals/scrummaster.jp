@@ -43,7 +43,7 @@ The illusion that we need to plan around "dependencies" through multiple Sprints
 Ten years ago I'd usually hear the same misconception expressed as a *house analogy*:  "If you want to build a house, you have to build the foundation first.  You can't start with the roof."  And this may be true ... about houses.
 {:/comment}
 
-##　ソフトウェア開発においては、非同期の「依存関係」が生じるのは、逃れられない物理法則の結果ではない。
+## ソフトウェア開発においては、非同期の「依存関係」が生じるのは、逃れられない物理法則の結果ではない。
 
 複数のスプリントを通じた「依存関係」を考慮に入れた計画を立てねばならないと思い込んでしまうのは、組織構造やポリシー、技術が時代遅れとなっている兆候です。これを問題として正面から取り組まなければアジリティは得られず、逆に、ガントチャートや赤い糸で固定化してしまっては解決しません。靴下と靴の例え話は、ソフトウェア開発においては「依存関係」が時代遅れの考え方による空想の産物*である*ことを、迂闊にも露呈しています。
 
@@ -61,7 +61,7 @@ Would it take you another four days to get back to where you were?  Of course no
 {:/comment}
 
 
-##　ソフトウェア開発などの[知識労働](/how-is-knowledge-work-different-jp)における根本的な制約条件は、知識を発見し創造する我々の能力である。
+## ソフトウェア開発などの[知識労働](/how-is-knowledge-work-different-jp)における根本的な制約条件は、知識を発見し創造する我々の能力である。
 
 例えば、執筆、作曲、プログラミング等の作業に月曜から木曜までを費やしたとしましょう。いくつもの方法を試しては上手くいきませんでした。散歩してみたり、一晩中考えたりしました。リサーチを行い、次こそ上手くいきそうな８番目の方法を見つけましたが、友人に見せると重大な欠陥を指摘されてしまいました。木曜の午後、これまでの取り組みのいい部分を組み合わせた９番目のやり方がほぼ完成し、ようやく終わりそうなところまで来ました。
 
@@ -78,7 +78,7 @@ Once we internalize this realization, it leads to actions which were counterintu
 A skillful software development organization allows the Product Owner to *prioritize* the Product Backlog from a business perspective, not just "order" it.  Put away the red yarn.
 {:/comment}
 
-##　知識労働において「依存関係」として知覚されるものは、知識のギャップから生じている。
+## 知識労働において「依存関係」として知覚されるものは、知識のギャップから生じている。
 
 この気づきをしっかりと理解できれば、従来の直感には反するような（そしてしばしばプロジェクトマネジャーのアドバイスとは真逆の）行動に繋がります。不幸なことに、その時まであなたの組織の構造及びポリシーは、知識のギャップを増す方向に機能していたということです。
 
