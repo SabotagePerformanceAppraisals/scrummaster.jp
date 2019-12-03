@@ -6,7 +6,7 @@ header:
   teaser: /images/goddamn-it-only-a-few-teams-are-doing-the-most-valuable-work.png
 ---
 
-[![プロダクトオーナーの誤った認識 16ページ](/images/page-16.png)](/)
+[![プロダクトオーナーの誤った認識 16ページ](/images/page-16.png){: .align-center width="600"}](/)
 
 7つのチームを持つ会社の人間がスクラムを表面的にしか理解していない場合、各チームは個別の業務リストを持つべきだと考えるかもしれません。それによってチームが「生産的」になるはず･･･でしょう？
 
@@ -18,7 +18,7 @@ header:
 
 3. 各チームがすべてのアイテムを同じ速度で完了させること。チームBが優先順位2位のアイテム（B-2）を始めるのよりも先に、チームAが優先順位3位のアイテム（A-3）に取り掛かってしまったとすると、より価値の高い業務を犠牲にして、既に価値が低いと判断されている業務に取り組むことになってしまいます。スーパーでレジに並んだとき、遅く来た人が違う列で先に買い物を済ませてしまったという経験はありませんか？
 
-[![プロダクトオーナーの誤った認識 17ページ](/images/page-17.png)](/)
+[![プロダクトオーナーの誤った認識 17ページ](/images/page-17.png){: .align-center width="600"}](/)
 
 以上は、いわゆる「Spotifyモデル」（別名：シャイニー・ハッピー・ピープル）を推奨する人々が大抵見逃しているポイントです。生産的だという感覚と、実際に価値の高い業務を遂行できていることとは別物です。従業員の満足度は、便利な指標となり得ます。{::comment}Employee satisfaction is a potentially useful measure, but by itself isn’t evidence that the product development organization can learn and adapt to reality as it’s discovered, which was supposed to be the purpose of Agility.しかし、プロダクト開発組織が、事実が明らかになっていくにつれてそれに学び適応するというアジリティの目的を成し遂げられているかについては、それ自体が証明となるものではありません。{:/comment}しかし、それ自体がアジリティの目的を成し遂げられているかについて証明するものではありません。アジリティの目的とは、プロダクト開発組織が、事実が明らかになっていくにつれてそれに学び適応するということです。
 
@@ -26,9 +26,7 @@ header:
 
 読者の皆さん、あなた方がご自身の状況において何をするべきかは私には分かりません。せめてこの記事によって、スクラムにおいてはチームの数に関わらずプロダクトごとに1つのプロダクトバックログしか存在しない理由をお分かりいただけたなら幸いです。
 
-English version is at <https://seattlescrum.com/misconception-2-all-teams-are-working-on-equal-value/>
-
-* * *
+[English version](https://seattlescrum.com/misconception-2-all-teams-are-working-on-equal-value/)
 
 {% include video id="YYOKMUTTDdA?rel=0" provider="youtube" %}
 

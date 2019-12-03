@@ -8,13 +8,13 @@ header:
 
 小さなチームは素晴らしいものです。スクラムの定義上、必須とされるものでもあります。スクラムにおいてはさらにプロダクトバックログ及びプロダクトオーナーも必要です。
 
-ほとんどの企業では、どのようなプロダクトでも１１人以上が従事しています。彼らはスクラムを適合させる（[局所最適化](https://seattlescrum.com/local-optimization-bias)）ためだけに「プロダクト」を再定義し、プロダクト全体より狭い意味に変えてしまうことがあります。しかしこれは、言葉が本来の意図とは真逆のことを意味してしまう鏡の迷宮への入口なのです。
+ほとんどの企業では、どのようなプロダクトでも１１人以上が従事しています。彼らはスクラムを適合させる（[局所最適化](/local-optimization-bias-jp)）ためだけに「プロダクト」を再定義し、プロダクト全体より狭い意味に変えてしまうことがあります。しかしこれは、言葉が本来の意図とは真逆のことを意味してしまう鏡の迷宮への入口なのです。
 
 その次に生じるミスは、鋭い人間であればただの「チームバックログ」であると見抜けるものを、「プロダクトバックログ」として各チームに与えてしまうことです。
-![プロダクトバックログ　ー　プロダクト全体思考　＝　チームバックログ](/images/product-backlog-minus-whole-product-authority-equals-team-backlog.png){: .align-center width="70%"}
+![プロダクトバックログ　ー　プロダクト全体思考　＝　チームバックログ](/images/product-backlog-minus-whole-product-authority-equals-team-backlog.png){: .align-center width="300"}
 
 そして、本当は単なる「チームアウトプットオーナー」に過ぎない者を「プロダクトオーナー」として各チームに置いてしまうのです。
-![プロダクトオーナー　－　プロダクト全体思考　＝　チームアウトプットオーナー](/images/product-owner-minus-whole-product-authority-equals-team-output-owner.png){: .align-center width="70%"}
+![プロダクトオーナー　－　プロダクト全体思考　＝　チームアウトプットオーナー](/images/product-owner-minus-whole-product-authority-equals-team-output-owner.png){: .align-center width="300"}
 
 その結果残されるのは、各チームが真のプロダクトに対して狭い視野しか持たない、バラバラになった「スクラムチーム」の山です。残念なことに、Henrik Knibergのプロダクトオーナーについての非常に有名な動画でも、最後の方でこの方法が推奨されています（最後の数分間を除けば素晴らしい動画です）。[^1]
 
@@ -33,6 +33,6 @@ header:
 
 スクラムマスター（及び、存在する場合はマネジメント）は、視野を大きく広げ、[プロダクト全体思考](https://less.works/jp/less/principles/whole-product-focus.html)を促すべきです。
 
-English version is at: <https://seattlescrum.com/misconception-3-should-our-team-see-a-narrow-view-or-a-whole-product-view/>
+[English version](https://seattlescrum.com/misconception-3-should-our-team-see-a-narrow-view-or-a-whole-product-view/)
 
 [^1]: Images from _Product Owner In A Nutshell_ by Henrik Kniberg.
