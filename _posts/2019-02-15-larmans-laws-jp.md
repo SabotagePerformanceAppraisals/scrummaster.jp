@@ -18,8 +18,8 @@ read_time: false
 
 システム思考家であり、システム思考の提唱者であるJohn Seddon氏曰く、「組織の文化を変えようとする事は愚かな試みです。なぜなら、そのような試みは常に失敗するからです。人々のふるまい（文化）は体制により作られるからです。もしあなたが体制を変えれば人々のふるまいは変わるでしょう。」
 
-![Craig Larman](/images/craig-larman.png){: .align-right}
+![Craig Larman](/images/craig-larman.png){: .align-right width="200"}
 
 Translation by Aki Enomoto and Yoko Hinoue.
 
-Larman's Laws of Organizational Behavior in English: <https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior>
+[Larman's Laws of Organizational Behavior in English](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)
