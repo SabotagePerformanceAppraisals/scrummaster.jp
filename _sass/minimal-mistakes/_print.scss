@@ -24,7 +24,6 @@
     margin: 0;
     padding: 0;
     min-height: auto !important;
-    font-size: 16px;
   }
 
   body {
@@ -32,7 +31,7 @@
     background: #fff !important;
     color: #000 !important;
     font-family: $serif;  // I sought the serif.
-    font-size: 0.85rem;
+    font-size: 11pt;
     line-height: 1.5;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -48,33 +47,24 @@
     color: #000;
     line-height: 1.2;
     margin-bottom: 0.75rem;
-    margin-top: 0;
     font-family: 'Noto Sans JP', sans-serif;
   }
 
   h1 {
-    font-size: 1.75rem;
+    font-size: 17pt;
+    margin-top: 0;
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 14pt;
+    margin-top: 25px;
   }
 
-  h3 {
-    font-size: 1.25rem;
+  h3, h4, h5, h6 {
+    font-size: 11pt;
+    margin-top: 25px;
   }
 
-  h4 {
-    font-size: 1.12rem;
-  }
-
-  h5 {
-    font-size: 1.06rem;
-  }
-
-  h6 {
-    font-size: 1rem;
-  }
 
   a,
   a:visited {
