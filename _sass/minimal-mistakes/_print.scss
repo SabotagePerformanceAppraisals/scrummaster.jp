@@ -4,6 +4,12 @@
 
 @media print {
 
+  @page {
+    size: A4;
+     margin-top: 2cm;
+     margin-bottom: 1cm;
+  }
+
   [hidden] {
     display: none;
   }
