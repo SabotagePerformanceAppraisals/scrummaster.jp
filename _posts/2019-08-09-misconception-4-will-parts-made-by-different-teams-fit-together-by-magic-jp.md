@@ -26,7 +26,7 @@ By "components" I'm usually referring to architectural layers within the softwar
 
 私が「コンポーネント」と言う場合は、通常、フロントエンド、バックエンド、「プラットフォーム」、デバイスドライバ等のソフトウェア内のアーキテクチャ層を意味しています。コンポーネントの作業しか行えないチームを有する大規模組織があまりにもたくさん存在します。
 
-[![かみ合わないコンポーネント](../images/components-dont-fit-together.png)](/){: .align-center}
+[![かみ合わないコンポーネント](../images/components-dont-fit-together.png){: .align-center width="400"}](/){: .align-center}
 *コンポーネントチームを無くしてインテグレーションの遅延を回避*
 
 {::comment}
@@ -38,7 +38,7 @@ For Agility, we will usually prefer [feature teams](https://less.works/less/stru
 
 アジリティのために通常好ましいのは、複数のコンポーネントにまたがり、エンドツーエンドかつ顧客中心のフィーチャーを共有コードベースで開発できる[フィーチャーチーム](https://less.works/jp/less/structure/feature-teams.html)でしょう。*コンポーネントチーム*ではこのようなことは行いませんし、行う能力もありません。
 
-![フューチャーチーム](../images/feature-teams.png){: .align-center}
+![フューチャーチーム](../images/feature-teams.png){: .align-center width="300"}
 *フューチャーチームの例*
 
 {::comment}
@@ -124,9 +124,7 @@ So Scrum Masters should be encouraging collaboration across teams, just as they 
 
 したがってスクラムマスターは、チーム内の連携を促進するのと同様に、チーム間の連携も促すべきです。幸運なことに、[これを成し遂げるための「スクラムオブスクラム」より優れた方法が数多く存在します。](/seven-alternatives-to-scrum-of-scrums-jp)
 
-![壁を打ち崩せ](../images/tear-down-the-wall.png)
-
-* * *
+![壁を打ち崩せ](../images/tear-down-the-wall.png){: .align-center width="400"}
 
 {::comment}
 ## Misconception 4.3: Will Products Sold Separately _Or_ As Parts Of A Suite Integrate Without Teams Working Together?  
