@@ -57,7 +57,7 @@ During the 1980’s I had a brief stint in an IT department. Our IT department w
 
 ## 例3
 
-[![チームの生産性 局所最適化バイアス](../images/team-productivity-local-optimization-bias.png){: .align-center}](/)
+[![チームの生産性 局所最適化バイアス](../images/team-productivity-local-optimization-bias.png){: .align-center width="340"}](/)
 
 
 {::comment}Beginning Scrum Masters –– including some book authors –– focus on trying to make "hyperproductive" teams instead of helping the product development organization become better able to learn and adapt.{:/comment}
@@ -97,5 +97,5 @@ During the 1980’s I had a brief stint in an IT department. Our IT department w
 
 * * *
 
-English article online at <https://seattlescrum.com/local-optimization-bias/>
+[English version](https://seattlescrum.com/local-optimization-bias/)
 
