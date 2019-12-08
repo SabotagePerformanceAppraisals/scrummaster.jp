@@ -19,6 +19,7 @@ permalink: /read-also
 * [アジャイル宣言の背後にある原則](http://agilemanifesto.org/iso/ja/principles.html)
 * [GROOVE X社のCEOによるキーノート・スピーチ](https://www.agilejapan.org/2019/session/keynote-03_GROOVE.pdf) -- こちらが、マネージャー不在の自己マネージチームによりゼロから立ち上げられた会社の興味深い一例です。CEOの林要（はやしかなめ）氏がプロダクトオーナーで、中間にチームアウトプットオーナーは存在していません。なおGROOVE X社は [榎本明仁氏](https://www.odd-e.jp/ja/team_02/) やこの分野に精通したスクラム・マスターにコーチングされています。
 * [GROOVE XがどうLeSSを活用しているか](https://www.agilejapan.org/2019/session/east1-1_GXSM.pdf).
+* [「1プロダクトをみんなで作る！」Rettyでの大規模スクラム(LeSS)導入記](https://engineer.retty.me/entry/2019/12/08/120000).
 * 貴社が12名のみで構成されているような会社であれば、ぜひ[スクラムガイド](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Japanese.pdf)をお読み下さい 。
 * 貴社に12人超のメンバーがいるなら、[大規模スクラム-Large-Scale-Scrum-LeSS-アジャイルを大規模に実装する方法](https://www.amazon.co.jp/大規模スクラム-Large-Scale-Scrum-LeSS-アジャイルとスクラムを大規模に実装する方法/dp/462130366X/)をお読み下さい。[スクラムにおけるありがちな間違い](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-jp.pdf)は避けるべきです。
 * ケン・シュワーバー氏は、2003年の「スクラム・オブ・スクラムズ」は誤りではなかったかと考えています。今日でもこれはアジャイル性を減ずる傾向があるようです。[7つの選択肢](https://less.works/jp/less/framework/coordination-and-integration.html)を読む。
