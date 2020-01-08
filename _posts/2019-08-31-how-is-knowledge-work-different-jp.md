@@ -1,27 +1,70 @@
 ---
-title: "知識創造を行う仕事は、どうしてこうも異なるのか？（なぜあの会社はコーディングができないのか）"
+title: "知識創造を行う仕事は、今までの仕事と何が違うのか？（なぜあの会社はコーディングができないのか）"
 ---
 ## 知識創造を行う仕事、例えばソフトウェア開発などに見られる根本的な制約は、私たち人間の知識を発見したり創造したりする能力にあります。
 
 {::comment}
-On Dec 17, 2019 I've been told this translation is hard to read.
+English version: https://seattlescrum.com/how-is-knowledge-work-different
+## The fundamental constraint of knowledge work -- such as software development -- is our ability to discover and create knowledge.
+
+Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program. You tore up seven ways that you realized wouldn’t work. You took a walk outside. You slept on it. You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea. By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done. Then Thursday night your cat walked across the keyboard and somehow deleted everything you typed that week.
+
+Would it take you another four days to get back to where you were? Of course not! By 10AM Friday you’d be ahead of where you were Thursday night. Therefore what was the actual constraint on that knowledge work? It wasn’t the typing. It was the learning and creation of new knowledge.
 {:/comment}
 
-皆さん、月曜から木曜までエッセー執筆、作詞、あるいはコンピュータープログラム作成に時間を費やしているところを想像してみて下さい。７つのアプローチを紙に書き出しては、上手くいかずグシャグシャにしてしまいます。気晴らしに散歩に出掛けてみます。寝ている間も考え続けます。色々リサーチしてみて、これは上手くいきそうだという８つ目の方法を発見します。しかし友達に見せると、そのアイディアの一部に致命的な欠陥があると指摘されてしまいます。木曜の午後までに、これまでのアプローチの優れたところだけを取り出して組み合わせた９つ目の方法をほぼ完成させます。するとその夜、猫がパソコンのキーボードの上を歩いて、あなたが一週間タイプしてきたもの全てを消去してしまいました。
+皆さん、一週間かけてエッセー執筆や作詞、あるいはコンピュータプログラム開発などの知的創造取り組む場合をイメージしてみて下さい。様々なやり方を試みましたが上手くいかず、もう７つものアプローチを破棄しました。散歩に出かけては考え、眠りにつく時も考えます。色々とリサーチして今度は上手くいきそうな８つ目のアプローチを閃きましたが、友人に見せると致命的な欠陥を指摘されてしまいました。そして木曜の午後、ついに、これまでの８つのアプローチの優れたところを組み合わせた９つ目の方法がほぼ完成しました。しかしその夜、パソコンのキーボードの上を飼い猫が歩いてしまって、月曜から入力してきた内容が全て消されてしまいました。
 
 ![git rm -r](/images/git-rm-r.png){: .align-left width="25%"}
 
-最後の状態まで作り直すのに、４日かかるでしょうか？そんなことはありません！金曜日の朝１０時には、木曜夜の状態より先のところまで進んでいます。では、この知識創造を行う仕事において本当の制約とは何だったのでしょうか？当然、タイピングのスピードではありません。それは新しい知識の学習と創造です。
+ここから全部作り直すのに、また丸４日間もかかるでしょうか？そんなことはありません。金曜日の朝１０時には、木曜日の夜の状態よりも進んでいるはずです。では、この知識創造における真の制約条件は何だったのでしょうか？タイピング速度ではありません。それは、新しい知識を学び、創造することです。
+
+
+
+{::comment}
+
+## Why Johnny, Inc. Can't Write Software
+
+Have you noticed that companies with lots of money and people can't seem to develop software that works very well?  I know interns who can make better websites than certain airlines can.  Those shops aren't built for learning.  They're organized as if software development is just about typing code.  When that fails, they try to fix it with harmful measures: adding incentives and "accountability", creating new roles and departments, hiring even more people to type code.
+
+### Hint: Johnny, Inc. Is Not "Understaffed"
+
+I recently visited a big bureaucratic agency that had trouble doing things that are easy for a small co-located team using modern development practices.  I almost fell over when I heard one of the dozen project managers say "We're understaffed."  No ... that's not the problem.
+{:/comment}
 
 ## なぜあの会社はソフトウェアのコードが書けないのか
 
-皆さんは、人材や資金に恵まれているのに、どうも上手くソフトウェアが開発できない会社を目にしたことはありませんか？私は様々な航空会社より、遥かに上手くウェブサイトを作る素人を知っています。こういった組織の現場では、学習できるように設計されていません。ソフトウェア開発といえばただコードをタイプするだけのもののように編制されているのです。これがうまくいかなくなると、さらに有害な方法で修正を試みます。例えば、インセンティブや「職務責任」を追加する、新しい役職や部署を作る、コードをタイプする従業員を増やしたりするでしょう。
+豊富な資金を持ち合わせ、大勢の従業員を抱える会社は、多くの場合、良いソフトウェアを開発できないことをご存知でしょうか？私は、とある航空会社よりもウェブサイト作りが上手いインターンを知っています。このような組織は学習のための組織設計がなされていません。ソフトウェア開発とは単なるコード入力であるかのように組織されているのです。これが立ち行かなくなると、インセンティブや「職務責任」を追加したり、新規役職や部署を作ったり、従業員（コード入力のためにさえ！）を増やしたりといった有害な方法で対処しようとするのです。
 
-### ヒント：その会社は人手不足ではない
+### ヒント：問題は「人手不足」ではない
 
-最近私が訪問した、ある大きな官僚型組織では、最新の技術的手法を用いて同一ロケーションで働く小規模のチームなら簡単にやってしまうような作業に手こずっていました。十数人いるプロジェクトマネージャーの1人が「我々は人手不足なんです」と言うのを聞いた時、私は思わず倒れそうになりました。違います...人手不足が問題なのではありません。
+最近、ある巨大な官僚型組織を訪問しました。そこでは、「小規模チームが最新の技術を用いて同一オフィス内で働けば簡単にやってしまう」ような作業に手こずっていました。十数人いるプロジェクトマネージャーの1人が「我々は人手不足なんです」と言うのを聞いた時、私は思わず倒れそうになりました。違います...人手不足が問題なのではありません。
 <div class="page-break"></div>
 
+{::comment}
+## Implications
+
+What would be different about an organization that recognizes that better software is really about our ability to discover and create knowledge?
+
+| Traditional Organization | Continuous Learning Organization  |
+| :----------:|:-------------:|
+| people work in separate cubicles, offices, or cities | each small team works at the same table |
+| more people | fewer people |
+| more roles | fewer roles |
+| more departments | fewer departments |
+| single-skilled workers | multi-skilled workers |
+| [fewer people learn from customers and end users](https://www.youtube.com/watch?v=RAY27NU1Jog) | many people learn from customers and end users |
+| private code ([my code/your code](/my-code-your-code/)) practices or policies | internal open-source practices |
+| people spend time reading/writing "tickets" | people spend time sharing screens and whiteboards |
+| focus on execution, quantity, and velocity | focus on impact |
+| learning happens only during brief training periods or on employee's own time | learning happens every day on company time |
+| mistakes are not survivable | experimentation is encouraged |
+| retrospectives affect teams only |[retrospectives cause improvements to company policies and structure](https://less.works/less/framework/overall-retrospective.html) |
+| managers coordinate, reallocate, motivate, and mediate | [managers are capability builders](https://less.works/less/management/role-of-manager.html) |
+| extended overtime | adequate sleep |
+
+Becoming a *learning organization* isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization. 
+
+{:/comment}
 ## 意味合い
 
 知識を発見したり創造する能力からより優れたソフトウェアが生まれると認識している組織はは、従来の組織と何が違うのでしょうか？
@@ -32,7 +75,7 @@ On Dec 17, 2019 I've been told this translation is hard to read.
 | 大人数 | 少人数 |
 | 多数の役割 | 少数の役割 |
 | 多数の部署 | 少数の部署 |
-| 単一スキルしかない人材 | 複数スキルを持つ人材 |
+| 単一スキルしかない従業員 | 複数スキルを持つ従業員 |
 | [顧客やエンドユーザーから学ぼうとしない従業員](https://www.youtube.com/watch?v=RAY27NU1Jog) | 顧客やエンドユーザーから多くを学ぶ従業員 |
 | プライベートコード（私が使うコード/あなたが使うコード）の習慣もしくは方針 | 社内オープンソースの習慣 |
 | JIRAチケットの読み書きに時間を費やす人 | 画面やホワイトボードをシェアするのに時間を費やす人 |
@@ -45,3 +88,5 @@ On Dec 17, 2019 I've been told this translation is hard to read.
 学び続ける組織になるには、一回のトレーニングプログラムや組織再編、または単発の「アジャイル変革」では不十分です。組織の文化についてただ話し合えば解決するということでもありません。これには組織の方針や構造を含めた深い変革を要します。
 
 [英語版/English](https://seattlescrum.com/how-is-knowledge-work-different)
+
+
