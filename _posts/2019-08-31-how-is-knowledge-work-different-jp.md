@@ -82,7 +82,7 @@ Becoming a *learning organization* isn't something that gets solved once, by a t
 | 実行、アウトプット向上、およびベロシティ（「４倍」高い生産率）に焦点を当てる | 効果に焦点を当てる |
 | 短期トレーニング中やプライベート時間にしか学習できない  | 日々、勤務中に学習できる |
 | 失敗が許されない | 実験が奨励される |
-| レストロペクティブがチームにしか反映されない | [レストロペクティブが企業の方針や構造の改善をもたらす](https://less.works/jp/less/framework/overall-retrospective.html) |
+| レトロスペクティブがチームにしか反映されない | [レトロスペクティブが企業の方針や構造の改善をもたらす](https://less.works/jp/less/framework/overall-retrospective.html) |
 | マネージャーは調整、業務の再配分、動機づけ、仲介を行う | [マネージャーは組織の能力開発をする](https://less.works/jp/less/management/role-of-manager.html) |
 
 学び続ける組織になるには、一回のトレーニングプログラムや組織再編、または単発の「アジャイル変革」では不十分です。組織の文化についてただ話し合えば解決するということでもありません。これには組織の方針や構造を含めた深い変革を要します。
