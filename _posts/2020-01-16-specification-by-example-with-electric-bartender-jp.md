@@ -88,7 +88,7 @@ public class StepDefs {
 }
 ~~~
 
-We recommend using 実例による仕様 Specification By Example (SBE) instead of writing User Stories during プロダクトバックログリファインメント.  Using Cucumber, even non-technical people should be able to understand the Feature Files.  The Development Team then creates Step Definitions during Sprint Execution.  
+We recommend using 実例による仕様 Specification By Example (SBE) instead of writing User Stories during プロダクトバックログリファインメント.  Using Cucumber, even non-technical people should be able to understand the Feature Files.  Please collaborate on this in one room.  The Development Team then creates Step Definitions during Sprint Execution.  
 We do SBE workshop in Tokyo using this 電子バーテンダー example.  MJ had help from [金井 大輝](https://www.odd-e.jp/team_06/) and Emerson Mills.  Many useful ideas about 実例による仕様 were developed by Gojko Adžić.
 
 Specification By Example (SBE)の詳細については、お問い合わせください。
