@@ -2,8 +2,7 @@
 title: "実例による仕様 Cucumber/Java Specification By Example (SBE) 電子バーテンダー"
 ---
 
-プロダクトバックログリファインメントを行なっている間は、ユーザーストーリーではなく、実例による仕様（Specification By
-Example、以降SBE）を用いることをお勧めします。ビジネス側の人と開発者は、ホワイトボードを使用して共同作業します。 Cucumberを使用すると、非技術者であっても [Feature Files](#feature-fileの例)
+プロダクトバックログリファインメントを行なっている間は、ユーザーストーリーではなく、実例による仕様（Specification By Example、以降SBE）を用いることをお勧めします。ビジネス側の人と開発者は、ホワイトボードを使用して共同作業します。 Cucumberを使用すると、非技術者であっても [Feature Files](#feature-fileの例)
 は理解できるはずです。
 
 開発チームは、スプリントの実行中に [Step Definitions](#step-definitionsの例) を作成します。
