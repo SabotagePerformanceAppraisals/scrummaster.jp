@@ -10,7 +10,7 @@ permalink: /read-also
 
 * [スクラムリファレンスカード](http://scrumreferencecard.com/ScrumReferenceCard-jp.pdf)
 * [スクラムマスターチェックリスト](http://scrummasterchecklist.org/pdf/Scrum-Master-Checklist-jp.pdf)
-* [スクラムトレーニングシリーズ・モジュール１: スクラムの紹介](https://docs.google.com/document/d/e/2PACX-1vS0hXfftjhiB_bsYDCjcVMGs4rQsCK7eTuJ95zHaUYqzpssQDf-LhITQiwQem3GhK4jLsihcnB81yJm/pub)
+* [スクラムトレーニングシリーズ・モジュール１: スクラムの紹介](https://docs.google.com/document/d/e/2PACX-1vS0hXfftjhiB_bsYDCjcVMGs4rQsCK7eTuJ95zHaUYqzpssQDf-LhITQiwQem3GhK4jLsihcnB81yJm/pub) 翻訳は完了していません。 フィードバックを送ってください。
 
 ### その他おすすめリンク（日本語）
 
