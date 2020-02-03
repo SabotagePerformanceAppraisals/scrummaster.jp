@@ -37,10 +37,10 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 * スクラムチームの役割の確認 – Identify the roles on the Scrum Team
 * スクラムマスターの特徴と責任 – Identify the responsibilities and characteristics of the Scrum Master
 * プロダクトオーナーの特徴と責任 – Identify the responsibilities and characteristics of the Scrum Product Owner
-* 廻達チームの特徴と責任 – Identify the responsibilities and characteristics of the Scrum Development Team
+* スクラム開発チームの特徴と責任 – Identify the responsibilities and characteristics of the Scrum Development Team
 
 ## E. スクラムマスター – SCRUM MASTER
-* スクラムマスターの特徴と責任の理解--スクラムチームのためのサーバンドリーダー – Understanding responsibilities and characteristics of the Scrum Master -- servant leader for the Scrum Team
+* スクラムマスターの特徴と責任の理解--スクラムチームのためのサーバントリーダー – Understanding responsibilities and characteristics of the Scrum Master -- servant leader for the Scrum Team
 * スクラムマスターは組織を支援する--コーチング、ファシリテーション、障害の除去 – Scrum Master service to the Organization -- coaching, facilitation, removing impediments – <https://scrummasterchecklist.org/pdf/Scrum-Master-Checklist-jp.pdf>をお読みください
 * スクラムマスターは開発チームを支援する--コーチング、ファシリテーション、障害の除去 – Scrum Master service to the Development Team -- coaching, facilitation, removing impediments
 * スクラムマスターはプロダクトオーナーを支援する--コーチング、ファシリテーション、障害の除去 – Scrum Master service to the Product Owner -- coaching, facilitation, removing impediments
