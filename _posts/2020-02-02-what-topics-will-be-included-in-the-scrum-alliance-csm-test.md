@@ -45,6 +45,23 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 * スクラムマスターは開発チームを支援する--コーチング、ファシリテーション、障害の除去 – Scrum Master service to the Development Team -- coaching, facilitation, removing impediments
 * スクラムマスターはプロダクトオーナーを支援する--コーチング、ファシリテーション、障害の除去 – Scrum Master service to the Product Owner -- coaching, facilitation, removing impediments
 
+##  F. スクラムイベント – SCRUM EVENTS
+* スプリントの特徴、価値や目的 – Characteristics, value and/or purpose of the Sprint
+* スプリントプランニング -- 特徴、価値、目的や参加者の役割– Sprint Planning -- characteristics, value, purpose and/or role of participants
+* デイリースクラム -- 特徴、価値、目的や参加者の役割– Daily Scrum -- characteristics, value, purpose and/or role of participants
+* スプリントレビュー -- 特徴、価値、目的や参加者の役割– Sprint Review -- characteristics, value, purpose and/or role of participants
+* レトロスペクティブ -- 特徴、価値、目的や参加者の役割– Retrospective -- characteristics, value, purpose and/or role of participants
+
+##  G. スクラムの作成物 – SCRUM ARTIFACTS
+* スクラムの作成物の目的や価値の理解 – Understand the purpose and value of Scrum artifacts
+* スクラムの作成物の確認 – Identify Scrum artifacts
+* プロダクトバックログ - 特徴、価値や目的 – Product Backlog - characteristics, value and purpose
+* スプリントバックログ -- 特徴、価値や目的 – Sprint Backlog -- characteristics, value and purpose
+* インクリメント -- 特徴、価値や目的 – Increment -- characteristics, value and purpose
+* 作成物の透明性の重要性を理解し価値とリスクの評価 – Understanding importance of transparency of artifacts to evaluate value and risk
+* 欠如した透明性の欠点の確認 – Identify the downsides of lack of transparency
+* Doneの定義の重要性 – Importance of establishing the Definition of Done
+* プロダクトバックログアイテムの特徴 – Characteristics of Product Backlog items
 
 * * *
 Download the [English CSM Test Specification](/downloads/CSM-Test-Specifications-2018_A4)
