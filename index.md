@@ -12,3 +12,5 @@ read_time: false
 [![Odd](/images/Odd-e-logo.svg){: width="10%" .align-center }](https://www.odd-e.jp/)
 
 ---
+
+---
