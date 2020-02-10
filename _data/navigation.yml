@@ -8,6 +8,8 @@ main:
     url: /read-also
   - title: "研修・イベント"
     url: /events
+  - title: "スクラムガイド"
+    url: /scrum-guide
   - title: "漫画"
     url: /comics
   # - title: "About"
