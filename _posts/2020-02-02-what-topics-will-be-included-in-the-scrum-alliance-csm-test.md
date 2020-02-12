@@ -10,7 +10,7 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 
 * アジャイルマニュフェスト４つの価値 – Four values of the Agile Manifesto – <https://agilemanifesto.org/iso/ja/manifesto.html>をお読みください
 * アジャイルマニュフェスト１２の原則 – Twelve principles of the Agile Manifesto – <https://agilemanifesto.org/iso/ja/principles.html>をお読みください
-* スクラムの定義 – Definition of Scrum – <https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Japanese.pdf>をお読みください
+* スクラムの定義 – Definition of Scrum – <https://scrummaster.jp/scrum-guide>をお読みください
 * スクラムとアジャイルの関係 – Relationship of Scrum to Agile 
 
 ## B. スクラムの理論 – SCRUM THEORY 
@@ -34,7 +34,7 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 
 * なぜ自己組織化がスクラムチームにとって重要か。– Why self-organizing is an important characteristic of Scrum Teams
 * なぜ機能横断的がスクラムチームにとって重要か。– Why cross-functional is an important characteristic of Scrum Teams
-* スクラムチームの役割の確認 – Identify the roles on the Scrum Team
+* スクラムチームの役割の確認 – Identify the roles on the Scrum Team – <https://scrummaster.jp/scrum-and-less-roles-quiz-part-1/>をお読みください
 * スクラムマスターの特徴と責任 – Identify the responsibilities and characteristics of the Scrum Master
 * プロダクトオーナーの特徴と責任 – Identify the responsibilities and characteristics of the Scrum Product Owner
 * スクラム開発チームの特徴と責任 – Identify the responsibilities and characteristics of the Scrum Development Team
