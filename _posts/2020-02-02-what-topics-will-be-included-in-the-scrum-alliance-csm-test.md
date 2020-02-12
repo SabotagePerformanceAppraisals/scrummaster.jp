@@ -15,7 +15,7 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 
 ## B. スクラムの理論 – SCRUM THEORY 
 
-* スクラムに関係する経験的プロセス制御 – Empirical process control as it relates to Scrum 
+* スクラムに関係する経験的プロセス制御 – Empirical process control as it relates to Scrum – <https://scrummaster.jp/scrum-guide#スクラムの理論>をお読みください
 * 経験的プロセス制御の３本柱とその重要性 – The 3 pillars of empirical process control and their importance 
 * スクラムの重要な特徴の"漸進的(インクリメント)"な進め方やその理由 – How and why _incremental_ is an important characteristic of Scrum 
 * スクラムの重要な特徴の"反復的(イテレーティブ)"な進め方やその理由 – How and why _iterative_ is an important characteristic of Scrum 
@@ -32,7 +32,7 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 
 ## D. スクラムチーム – SCRUM TEAM
 
-* なぜ自己組織化がスクラムチームにとって重要か。– Why self-organizing is an important characteristic of Scrum Teams
+* なぜ自己組織化がスクラムチームにとって重要か。– Why self-organizing is an important characteristic of Scrum Teams – <https://scrummaster.jp/scrum-guide#スクラムチーム>をお読みください
 * なぜ機能横断的がスクラムチームにとって重要か。– Why cross-functional is an important characteristic of Scrum Teams
 * スクラムチームの役割の確認 – Identify the roles on the Scrum Team – <https://scrummaster.jp/scrum-and-less-roles-quiz-part-1/>をお読みください
 * スクラムマスターの特徴と責任 – Identify the responsibilities and characteristics of the Scrum Master
