@@ -7,7 +7,7 @@ title: 'シーン7: なぜ「チーフプロダクトオーナー」は間違い
     ![page 25](/images/page-25.png)
     ![page 26](/images/page-26.png)
     ![page 27](/images/page-27.png)
-](/)
+](/why-scrum-isnt-making-your-company-very-agile/)
 
 > 長期的には、唯一の持続可能な強みは競合他社よりも早く学ぶ能力です。
 
