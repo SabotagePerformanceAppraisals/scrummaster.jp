@@ -69,4 +69,4 @@ Download the [English CSM Test Specification](/downloads/CSM-Test-Specifications
 
 _MJ thanks [Nakato Arase-さん](https://confengine.com/user/nakato-arase) for his generous help with this article._
 
-この記事を翻訳するにあたり、[荒瀬 中人様](https://confengine.com/user/nakato-arase)より多大なご協力を賜りました。
+この記事を翻訳するにあたり、[荒瀬 中人様](https://confengine.com/user/nakato-arase)より多大なご協力をいただきました。
