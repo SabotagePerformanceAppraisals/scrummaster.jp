@@ -21,7 +21,7 @@ permalink: /read-also
 * [GROOVE XがどうLeSSを活用しているか](https://www.agilejapan.org/2019/session/east1-1_GXSM.pdf).
 * [「1プロダクトをみんなで作る！」Rettyでの大規模スクラム(LeSS)導入記](https://engineer.retty.me/entry/2019/12/08/120000)
 * [大規模スクラム(LeSS)に取り組んでいる国内事例一覧](https://tune.hatenadiary.jp/entry/2020/02/08/141657)
-* 貴社が12名のみで構成されているような会社であれば、ぜひ[スクラムガイド](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Japanese.pdf)をお読み下さい 。
+* 貴社が12名のみで構成されているような会社であれば、ぜひ[スクラムガイド](/scrum-guide)をお読み下さい 。
 * 貴社に12人超のメンバーがいるなら、[大規模スクラム-Large-Scale-Scrum-LeSS-アジャイルを大規模に実装する方法](https://www.amazon.co.jp/大規模スクラム-Large-Scale-Scrum-LeSS-アジャイルとスクラムを大規模に実装する方法/dp/462130366X/)をお読み下さい。[スクラムにおけるありがちな間違い](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-jp.pdf)は避けるべきです。
 * ケン・シュワーバー氏は、2003年の「スクラム・オブ・スクラムズ」は誤りではなかったかと考えています。今日でもこれはアジャイル性を減ずる傾向があるようです。[7つの選択肢](https://less.works/jp/less/framework/coordination-and-integration.html)を読む。
 * [レガシーコード改善ガイド](http://amzn.asia/8hMbb8U)
