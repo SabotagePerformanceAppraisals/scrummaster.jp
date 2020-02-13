@@ -3,7 +3,7 @@ title: "スクラムマスターやプロダクトオーナーは、コーディ
 permalink: /scrum-masters-and-product-owners-are-not-coordinators
 ---
 
-スクラムおよびLeSSでは、（開発）チームは[クロスファンクショナル（機能横断的）であり、自己を管理します](/scrum-guide#開発チーム)。スクラムマスターやプロダクトオーナーではなく、チーム自身が調整や統合を行います。
+スクラムおよびLeSSでは、（開発）チームは[クロスファンクショナル（機能横断的）であり、自己を管理します](/scrum-guide#開発チーム)。スクラムマスターやプロダクトオーナーではなく、チーム自身が[調整や統合](/seven-alternatives-to-scrum-of-scrums-jp/#調整と統合代わりの方法)を行います。
 
  [スクラム導入後にアジリティが減少してしまう理由：プロダクトオーナーの役割に対する誤解、その悪影響および対処法について](/why-scrum-isnt-making-your-company-very-agile/)より、
 
