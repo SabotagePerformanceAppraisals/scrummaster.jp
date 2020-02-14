@@ -1,8 +1,12 @@
 ---
 title: "クイックスクラムクイズ1"
 ---
-<div class="interact_responsive_padding" style="padding:100% 0 0 0;position:relative;margin-bottom:5px;"><div class="interact_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe id="interactApp5e0d5b06a91a750014f8a3e8" width="100%" height="100%" style="border:none;max-width:100%;margin:0;" allowTransparency="true" frameborder="0" src="https://quiz.tryinteract.com/#/5e0d5b06a91a750014f8a3e8?method=iframe"></iframe></div></div>
+これはバージョン0.2です。 改善にご協力ください。
 
-MJ thanks 榎本 (Aki Enomoto) and  野口 智道 (Tomomichi Noguchi) for their help with this quiz.
+この練習問題は、匿名で何回でもお試しいただけます。
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaNelXgdoUUTeId9qTyF8GAg5sWHP1-miRLpVWDJnN0q3giA/viewform?embedded=true" width="640" height="6652" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+送信後、一番上までスクロールして「View score」をクリックしてください。
+
+MJ thanks 榎本 (Aki Enomoto), 野口 智道 (Tomomichi Noguchi), and 章平 山本 (Shohei Yamamoto) for their help with this quiz.
 
 これも試してみて。　<https://scrummaster.jp/scrum-and-less-roles-quiz-part-1/>
