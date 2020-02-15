@@ -25,8 +25,8 @@ The following people have generously donated their time to help improve the unde
 * 章平 山本 (Shohei Yamamoto) 
 * 野口 智道 (Tomomichi Noguchi) 
 * 荒瀬 中人様 (Nakato Arase)
-* Saito Norihiko
-* 深澤 祐輝 (Yuki Fukazawa), 
+* 斎藤紀彦 (Saito Norihiko)
+* 深澤 祐輝 (Yuki Fukazawa) 
 * 内藤 聡 (Naito Satoshi)
 
 ## Please help!
