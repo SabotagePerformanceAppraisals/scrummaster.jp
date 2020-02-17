@@ -9,4 +9,4 @@ title: "クイックスクラムクイズ1"
 
 MJ thanks 榎本 (Aki Enomoto), 野口 智道 (Tomomichi Noguchi), 深澤 祐輝 (Yuki Fukazawa), 内藤 聡 (Naito Satoshi), and 章平 山本 (Shohei Yamamoto) for their help with this quiz.
 
-これも試してみて。　<https://scrummaster.jp/scrum-and-less-roles-quiz-part-1/>
+こちらもお試しください。　<https://scrummaster.jp/scrum-and-less-roles-quiz-part-1/>
