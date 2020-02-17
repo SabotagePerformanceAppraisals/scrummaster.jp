@@ -58,8 +58,8 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 * プロダクトバックログ - 特徴、価値や目的 – Product Backlog - characteristics, value and purpose
 * スプリントバックログ -- 特徴、価値や目的 – Sprint Backlog -- characteristics, value and purpose
 * インクリメント -- 特徴、価値や目的 – Increment -- characteristics, value and purpose
-* 作成物(アーチファクト)の透明性の重要性を理解し価値とリスクの評価 – Understanding importance of transparency of artifacts to evaluate value and risk
-* 不明瞭な透明性による欠点の確認 – Identify the downsides of lack of transparency
+* 価値とリスクの観点から作成物(アーチファクト)の透明性の重要性の理解 – Understanding importance of transparency of artifacts to evaluate value and risk
+* 透明性の欠如により発生する問題の特定 – Identify the downsides of lack of transparency
 * 完成(Done)の定義の重要性 – Importance of establishing the Definition of Done
 * プロダクトバックログアイテムの特徴 – Characteristics of Product Backlog items
 
@@ -67,6 +67,6 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 Download the [English CSM Test Specification](/downloads/CSM-Test-Specifications-2018_A4)
 
 
-_MJ thanks [Nakato Arase-さん](https://confengine.com/user/nakato-arase) for his generous help with this article._
+_MJ thanks [Nakato Arase-さん](https://www.linkedin.com/in/nakato-arase-6a8b28135/) for his generous help with this article._
 
-この記事を翻訳するにあたり、[荒瀬 中人様](https://confengine.com/user/nakato-arase)より多大なご協力をいただきました。
+この記事を翻訳するにあたり、[荒瀬 中人様](https://www.linkedin.com/in/nakato-arase-6a8b28135/)より多大なご協力をいただきました。
