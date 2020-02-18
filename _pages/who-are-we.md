@@ -12,7 +12,7 @@ author_profile: false
 ## Authors
 
 * MJ (Michael James) was chosen by Ken Schwaber to help teach Scrum in 2006. He has been known for the [Scrum Master Checklist](https://scrummasterchecklist.org), and Agile tutorials seen by half a million people.  MJ works with Odd-e Japan.
-* Aki Enomoto (榎本) is an experienced Agile Coach at Odd-e who works with MJ quite a bit in Japan.
+* Akihito Enomoto (榎本 明仁) is an experienced Agile Coach at Odd-e who works with MJ quite a bit in Japan.
 
 ## Editor
 
@@ -20,14 +20,14 @@ author_profile: false
 
 ## Contributors (alphabetical)
 
-The following people have generously donated their time to help improve the understanding of Scrum, Agile, and LeSS in Japan.
+The following people have generously donated their time to help improve the understanding of Scrum, Agile, and LeSS in Japan（順不同）.
 
-* 章平 山本 (Shohei Yamamoto) 
-* 野口 智道 (Tomomichi Noguchi) 
-* 荒瀬 中人様 (Nakato Arase)
-* 斎藤紀彦 (Saito Norihiko)
-* 深澤 祐輝 (Yuki Fukazawa) 
-* 内藤 聡 (Naito Satoshi)
+* 山本 章平 (Shohei Yamamoto) 様
+* 野口 智道 (Tomomichi Noguchi) 様
+* 荒瀬 中人 (Nakato Arase) 様
+* 斎藤 紀彦 (Norihiko Saito) 様
+* 深澤 祐輝 (Yuki Fukazawa) 様
+* 内藤 聡 (Satoshi Naito) 様
 
 ## Please help!
 
