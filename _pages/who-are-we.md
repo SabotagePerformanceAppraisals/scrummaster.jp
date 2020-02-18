@@ -12,7 +12,7 @@ author_profile: false
 ## Authors
 
 * MJ (Michael James) was chosen by Ken Schwaber to help teach Scrum in 2006. He has been known for the [Scrum Master Checklist](https://scrummasterchecklist.org), and Agile tutorials seen by half a million people.  MJ works with Odd-e Japan.
-* Akihito Enomoto (榎本 明仁) is an experienced Agile Coach at Odd-e who works with MJ quite a bit in Japan.
+* Aki Enomoto (榎本 明仁) is an experienced Agile Coach at Odd-e who works with MJ quite a bit in Japan.
 
 ## Editor
 
