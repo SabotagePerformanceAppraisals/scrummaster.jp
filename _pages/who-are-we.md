@@ -20,7 +20,7 @@ author_profile: false
 
 ## ご協力いただいた方々（順不同）Contributors (alphabetical)
 
-日本でのスクラム・アジャイル・LeSSの理解を深めるためにご協力くださいました方々です。The following people have generously donated their time to help improve the understanding of Scrum, Agile, and LeSS in Japan.
+日本でのスクラム・アジャイル・LeSSの理解を深めるためのご協力に感謝いたします。The following people have generously donated their time to help improve the understanding of Scrum, Agile, and LeSS in Japan.
 
 * 山本 章平 (Shohei Yamamoto) 様
 * 野口 智道 (Tomomichi Noguchi) 様
@@ -31,4 +31,4 @@ author_profile: false
 
 ## ご支援ください Please help!
 
-本ウェブサイトはWe're just getting started and we need your help, particularly with Japanese proofreading!
+本ウェブサイトは開始いたしましたが構築中です。特に日本語訳の校正分野において、皆様のご支援をお願いいたします。We're just getting started and we need your help, particularly with Japanese proofreading!
