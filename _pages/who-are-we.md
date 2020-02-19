@@ -4,7 +4,7 @@ title: "Who Are We?"
 author_profile: false
 ---
 
-## 当ウェブサイトの目的　Purpose of this website
+## 当ウェブサイトの目的　<!--Purpose of this website-->
 
 組織における下記の支援を目的とします。
 
@@ -13,19 +13,19 @@ author_profile: false
 2. 従業員に満足のいく仕事と人道的な職場環境を提供できるようにする。
 <!--We want to help businesses provide satisfying work and humane work environments to their employees.-->
 
-## 執筆者　Authors
+## 執筆者　<!--Authors-->
 
 * MJ (Michael James)は2006年にスクラムを広めるためにケン・シュエーバーより抜擢されました。MJの著作には、[Scrum Master Checklist](https://scrummasterchecklist.org)やアジャイルについてのチュートリアル動画などがあります。MJはOdd-e Japanと共に活動しています。
 <!--MJ (Michael James) was chosen by Ken Schwaber to help teach Scrum in 2006. He has been known for the [Scrum Master Checklist](https://scrummasterchecklist.org), and Agile tutorials seen by half a million people.  MJ works with Odd-e Japan.-->
 * 榎本 明仁氏はOdd-e Japanの熟練アジャイルコーチです。MJは日本では主に榎本氏と共に活動しています。
 <!--Aki Enomoto (榎本 明仁) is an experienced Agile Coach at Odd-e who works with MJ quite a bit in Japan.-->
 
-## 編集者　Editor
+## 編集者　<!--Editor-->
 
 * 樋上 容子は https://scrummaster.jp の編集を担当しています。翻訳・文法・スペルミス、ご意見・ご提案など、その他お気付きの点がございましたらお知らせください。
 <!--Yoko Hinoue is the site editor of https://scrummaster.jp.  Please inform us of any spelling, grammatical, translation problems, and suggestions.-->
 
-## ご協力いただいた方々（順不同）Contributors (alphabetical)
+## ご協力いただいた方々（順不同）<!--Contributors (alphabetical)-->
 
 日本でのスクラム・アジャイル・LeSSの理解を深めるためのご協力に感謝いたします。
 <!--The following people have generously donated their time to help improve the understanding of Scrum, Agile, and LeSS in Japan.-->
@@ -37,7 +37,7 @@ author_profile: false
 * 深澤 祐輝 (Yuki Fukazawa) 様
 * 内藤 聡 (Satoshi Naito) 様
 
-## ご支援ください Please help!
+## ご支援ください <!--Please help!-->
 
 本ウェブサイトは開始いたしましたが、未だ構築中です。特に日本語訳の校正分野において、皆様のご支援をお願いいたします。
 <!--We're just getting started and we need your help, particularly with Japanese proofreading!-->
