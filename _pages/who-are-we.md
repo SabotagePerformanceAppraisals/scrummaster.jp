@@ -6,8 +6,10 @@ author_profile: false
 
 ## 当ウェブサイトの目的　Purpose of this website
 
-1. 組織が環境の変化に適応するための学習性を高める支援を目的とします。We want to help businesses learn to adapt to reality as it changes.
-2. 組織が従業員に満足のいく仕事と、人道的な職場環境を提供できるように支援することを目的とします。We want to help businesses provide satisfying work and humane work environments to their employees.
+組織における下記の支援を目的とします。
+
+1. 環境の変化に適応するための学習性を高める。　We want to help businesses learn to adapt to reality as it changes.
+2. 従業員に満足のいく仕事と人道的な職場環境を提供できるようにする。　We want to help businesses provide satisfying work and humane work environments to their employees.
 
 ## 執筆者　Authors
 
