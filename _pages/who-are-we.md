@@ -10,14 +10,14 @@ author_profile: false
 
 1. 環境の変化に適応するための学習性を高める。
 <!--We want to help businesses learn to adapt to reality as it changes.-->
-2. 従業員に満足のいく仕事と人道的な職場環境を提供できるようにする。
+2. 従業員に満足のいく仕事と、人道的な職場環境を提供できるようにする。
 <!--We want to help businesses provide satisfying work and humane work environments to their employees.-->
 
 ## 執筆者　<!--Authors-->
 
 * MJ (Michael James)は2006年にスクラムを広めるためにケン・シュエイバー氏より抜擢されました。MJの著作には、[Scrum Master Checklist](https://scrummasterchecklist.org)やアジャイルについてのチュートリアル動画（５００万回再生）などがあります。MJはOdd-e Japanと共に活動しています。
 <!--MJ (Michael James) was chosen by Ken Schwaber to help teach Scrum in 2006. He has been known for the [Scrum Master Checklist](https://scrummasterchecklist.org), and Agile tutorials seen by half a million people.  MJ works with Odd-e Japan.-->
-* 榎本 明仁（Aki Enomoto）氏はOdd-e Japanの熟練アジャイルコーチです。日本ではMJは主に榎本氏と共に活動しています。
+* 榎本 明仁（Aki Enomoto）氏はOdd-e Japanの熟練アジャイルコーチです。日本では、MJは主に榎本氏と共に活動しています。
 <!--Aki Enomoto (榎本 明仁) is an experienced Agile Coach at Odd-e who works with MJ quite a bit in Japan.-->
 
 ## 編集者　<!--Editor-->
