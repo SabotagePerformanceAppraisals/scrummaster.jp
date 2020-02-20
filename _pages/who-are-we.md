@@ -2,7 +2,7 @@
 permalink: /who-are-we
 title: "コミュニティ"
 author_profile: false
-excerpt: "1. 環境の変化に適応するための学習性を高める。 2. 従業員に満足のいく仕事と、人道的な職場環境を提供できるようにする。"
+excerpt: "環境の変化に適応するための学習性を高める。従業員に満足のいく仕事と、人道的な職場環境を提供できるようにする。"
 ---
 
 ## 当ウェブサイトの目的　<!--Purpose of this website-->
