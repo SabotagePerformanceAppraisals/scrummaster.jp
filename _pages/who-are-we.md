@@ -15,7 +15,7 @@ author_profile: false
 
 ## 執筆者　<!--Authors-->
 
-* MJ (Michael James)は2006年にスクラムを広めるためにケン・シュエイバー氏より抜擢されました。MJの著作には、[Scrum Master Checklist](https://scrummasterchecklist.org)やアジャイルについてのチュートリアル動画（５００万回再生）などがあります。MJはOdd-e Japanと共に活動しています。
+* MJ (Michael James)は2006年にスクラムを広めるためにケン・シュエイバー氏より抜擢されました。MJの著作には、[Scrum Master Checklist](https://scrummasterchecklist.org)やアジャイルについてのチュートリアル動画（５０万回再生）などがあります。MJはOdd-e Japanと共に活動しています。
 <!--MJ (Michael James) was chosen by Ken Schwaber to help teach Scrum in 2006. He has been known for the [Scrum Master Checklist](https://scrummasterchecklist.org), and Agile tutorials seen by half a million people.  MJ works with Odd-e Japan.-->
 * 榎本 明仁（Aki Enomoto）氏はOdd-e Japanの熟練アジャイルコーチです。日本では、MJは主に榎本氏と共に活動しています。
 <!--Aki Enomoto (榎本 明仁) is an experienced Agile Coach at Odd-e who works with MJ quite a bit in Japan.-->
