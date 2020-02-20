@@ -37,7 +37,7 @@ author_profile: false
 * 深澤 祐輝 (Yuki Fukazawa) 様
 * 内藤 聡 (Satoshi Naito) 様
 
-## ご支援ください <!--Please help!-->
+## ご協力ください <!--Please help!-->
 
-本ウェブサイトは構築中です。特に日本語訳の校正分野において、皆様のご支援をお願いいたします。
+本ウェブサイトは構築中です。特に日本語訳の校正分野において、皆様のご協力をお願いいたします。
 <!--We're just getting started and we need your help, particularly with Japanese proofreading!-->
