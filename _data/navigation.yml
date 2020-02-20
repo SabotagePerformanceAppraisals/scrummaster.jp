@@ -12,6 +12,9 @@ main:
     url: /scrum-guide
   - title: "漫画"
     url: /comics
+  - title: "コミュニティ"
+    url: /who-are-we
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
