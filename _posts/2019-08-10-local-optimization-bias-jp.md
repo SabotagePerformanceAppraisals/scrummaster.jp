@@ -27,7 +27,7 @@ The following video illustrates local optimization in a typical organization.  A
 ## 例1
 
 次の動画では、典型的な組織での局所最適化が見られます。管理者は、包装されていないチョコレートが隣のラインに混入しないように従業員に指示します。ほぼ問題なくできています。しかし長期的に、且つ全体的に見たら、局所的な最適化はビジネス・従業員・顧客全体に被害を及ぼしてしまいます。これは滑稽な動画のはずですが、あなたの会社では毎日のように似たようなことが起こっているので、真剣に受け止めてください。
-{% include video id="8NPzLBSBzPI?rel=0" provider="youtube" %}
+{% include video id="_y0nsN4px10?rel=0" provider="youtube" %}
 
 {::comment}
 ## Example 2
