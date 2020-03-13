@@ -1,6 +1,10 @@
 ---
 title: "スクラムアライアンスによるCSMテストの受験予定者を対象とした12ステップのプログラム"
 permalink: /12-step-csm-exam-preparation
+excerpt: "スクラムアライアンスによるCSMテストを受験するにあたり、不安を抱えていませんか？また、スクラムやLeSSについての知識をさらに深めたいとお考えですか？私は2004年より、日本を含め世界中でスクラムならびにアジャイルについての学習をサポートしてきました。"
+header:
+   og_image: /images/scrum-alliance-csm-logo-twitter-badge.png
+   teaser: /images/scrum-alliance-csm-logo-twitter-badge.png
 ---
 
 ## 12ステップのプログラム
