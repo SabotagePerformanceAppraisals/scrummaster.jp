@@ -11,3 +11,5 @@ title: "練習問題　スクラム/LeSSで定義されている役割　パー�
 この練習問題を作成するにあたり、榎本明仁 (Aki Enomoto)氏、 野口 智道 (Tomomichi Noguchi)氏 、Emerson Mills氏、 山本章平 (Shohei Yamamoto)氏、そして斎藤紀彦 (Norihiko Saito)氏よりご協力をいただきました。
 
 こちらもお試しください。  <https://scrummaster.jp/quick-scrum-quiz/>
+
+[スクラムアライアンスによるCSMテストの受験予定者を対象とした12ステップのプログラム](/12-step-csm-exam-preparation)

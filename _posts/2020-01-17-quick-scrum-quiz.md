@@ -10,3 +10,5 @@ title: "クイックスクラムクイズ1"
 この練習問題を作成するにあたり、榎本明仁 (Aki Enomoto)氏, 野口智道 (Tomomichi Noguchi)氏, 深澤祐輝 (Yuki Fukazawa)氏, 内藤聡 (Naito Satoshi)氏, そして山本章平 (Shohei Yamamoto)氏よりご協力をいただきました。
 
 こちらもお試しください。　<https://scrummaster.jp/scrum-and-less-roles-quiz-part-1/>
+
+[スクラムアライアンスによるCSMテストの受験予定者を対象とした12ステップのプログラム](/12-step-csm-exam-preparation)

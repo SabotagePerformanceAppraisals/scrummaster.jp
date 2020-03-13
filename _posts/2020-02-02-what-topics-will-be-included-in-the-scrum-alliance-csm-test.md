@@ -70,3 +70,5 @@ Download the [English CSM Test Specification](/downloads/CSM-Test-Specifications
 _MJ thanks [Nakato Arase-さん](https://www.linkedin.com/in/nakato-arase-6a8b28135/) for his generous help with this article._
 
 この記事を翻訳するにあたり、[荒瀬 中人様](https://www.linkedin.com/in/nakato-arase-6a8b28135/)より多大なご協力をいただきました。
+
+[スクラムアライアンスによるCSMテストの受験予定者を対象とした12ステップのプログラム](/12-step-csm-exam-preparation)
