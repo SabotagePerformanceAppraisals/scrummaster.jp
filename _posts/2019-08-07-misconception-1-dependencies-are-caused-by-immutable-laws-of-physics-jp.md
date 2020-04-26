@@ -17,9 +17,9 @@ Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted
 
 ![SAFeの糸](../images/yarn.svg){: .align-right width="20%"}
 {::comment}
-Unfortunately, people who haven't discovered that [knowledge work is different from traditional work](/how-is-knowledge-work-different) misapply these techniques to software development.  Software development companies steeped in the project management mindset sometimes try to plan around perceived dependencies with traditional Gantt charts, or sometimes by modeling them with red yarn.  The yarn method is only superficially different than a 100 year old Gantt chart, yet it's still being sold as an "Agile" technique today!
+Unfortunately, people who haven't discovered that [knowledge work is different from traditional work](/how-is-knowledge-creation-work-different) misapply these techniques to software development.  Software development companies steeped in the project management mindset sometimes try to plan around perceived dependencies with traditional Gantt charts, or sometimes by modeling them with red yarn.  The yarn method is only superficially different than a 100 year old Gantt chart, yet it's still being sold as an "Agile" technique today!
 {:/comment}
-残念なことに、[知的労働と伝統的労働とは異なる](/how-is-knowledge-work-different-jp)ことを理解せず、ソフトウェア開発にまでこの手法が用いられてしまっています。プロジェクトマネジメント思考に囚われたソフトウェア開発会社は、計画を立てるために、伝統的なガントチャートを用いたり、赤い糸でモデル化したりして、判明している依存関係を考慮に入れようとすることがあります。赤い糸を用いる手法は、百年も使い古されたガントチャートと表面的に異なるだけなのですが、現在でも「アジャイル」なテクニックとして売り込まれています。
+残念なことに、[知的労働と伝統的労働とは異なる](/how-is-knowledge-creation-work-different-jp)ことを理解せず、ソフトウェア開発にまでこの手法が用いられてしまっています。プロジェクトマネジメント思考に囚われたソフトウェア開発会社は、計画を立てるために、伝統的なガントチャートを用いたり、赤い糸でモデル化したりして、判明している依存関係を考慮に入れようとすることがあります。赤い糸を用いる手法は、百年も使い古されたガントチャートと表面的に異なるだけなのですが、現在でも「アジャイル」なテクニックとして売り込まれています。
 
 {::comment}
 ## Physical analogies for software development (and other knowledge work) are mental traps
@@ -51,7 +51,7 @@ Ten years ago I'd usually hear the same misconception expressed as a *house anal
 
 
 {::comment}
-## The fundamental constraint of [knowledge work](/how-is-knowledge-work-different) -- such as software development -- is our ability to discover and create knowledge. 
+## The fundamental constraint of [knowledge work](/how-is-knowledge-creation-work-different) -- such as software development -- is our ability to discover and create knowledge. 
 
 Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program.  You tore up seven ways that you realized wouldn't work.  You took a walk outside.  You slept on it.  You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea.  By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done.
 
@@ -61,7 +61,7 @@ Would it take you another four days to get back to where you were?  Of course no
 {:/comment}
 
 
-## ソフトウェア開発などの[知識労働](/how-is-knowledge-work-different-jp)における根本的な制約条件は、知識を発見し創造する我々の能力である。
+## ソフトウェア開発などの[知識労働](/how-is-knowledge-creation-work-different-jp)における根本的な制約条件は、知識を発見し創造する我々の能力である。
 
 例えば、執筆、作曲、プログラミング等の作業に月曜から木曜までを費やしたとしましょう。いくつもの方法を試しては上手くいきませんでした。散歩してみたり、一晩中考えたりしました。リサーチを行い、次こそ上手くいきそうな８番目の方法を見つけましたが、友人に見せると重大な欠陥を指摘されてしまいました。木曜の午後、これまでの取り組みのいい部分を組み合わせた９番目のやり方がほぼ完成し、ようやく終わりそうなところまで来ました。
 

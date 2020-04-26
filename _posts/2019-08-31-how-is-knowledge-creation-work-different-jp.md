@@ -4,12 +4,12 @@ title: "知識創造を行う仕事は、今までの仕事と何が違うのか
 ## 知識創造を行う仕事、例えばソフトウェア開発などに見られる根本的な制約は、私たち人間の知識を発見したり創造したりする能力にあります。
 
 {::comment}
-English version: https://seattlescrum.com/how-is-knowledge-work-different
-## The fundamental constraint of knowledge work -- such as software development -- is our ability to discover and create knowledge.
+English version: https://seattlescrum.com/how-is-knowledge-creation-work-different
+## The fundamental constraint of knowledge creation work -- such as software development -- is our ability to discover and create knowledge.
 
 Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program. You tore up seven ways that you realized wouldn’t work. You took a walk outside. You slept on it. You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea. By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done. Then Thursday night your cat walked across the keyboard and somehow deleted everything you typed that week.
 
-Would it take you another four days to get back to where you were? Of course not! By 10AM Friday you’d be ahead of where you were Thursday night. Therefore what was the actual constraint on that knowledge work? It wasn’t the typing. It was the learning and creation of new knowledge.
+Would it take you another four days to get back to where you were? Of course not! By 10AM Friday you’d be ahead of where you were Thursday night. Therefore what was the actual constraint on that work? It wasn’t the typing. It was the learning and creation of new knowledge.
 {:/comment}
 
 皆さん、一週間かけてエッセー執筆や作詞、あるいはコンピュータプログラム開発などの知的創造取り組む場合をイメージしてみて下さい。様々なやり方を試みましたが上手くいかず、もう７つものアプローチを破棄しました。散歩に出かけては考え、眠りにつく時も考えます。色々とリサーチして今度は上手くいきそうな８つ目のアプローチを閃きましたが、友人に見せると致命的な欠陥を指摘されてしまいました。そして木曜の午後、ついに、これまでの８つのアプローチの優れたところを組み合わせた９つ目の方法がほぼ完成しました。しかしその夜、パソコンのキーボードの上を飼い猫が歩いてしまって、月曜から入力してきた内容が全て消されてしまいました。
@@ -87,6 +87,6 @@ Becoming a *learning organization* isn't something that gets solved once, by a t
 
 学び続ける組織になるには、一回のトレーニングプログラムや組織再編、または単発の「アジャイル変革」では不十分です。組織の文化についてただ話し合えば解決するということでもありません。これには組織の方針や構造を含めた深い変革を要します。
 
-[英語版/English](https://seattlescrum.com/how-is-knowledge-work-different)
+[英語版/English](https://seattlescrum.com/how-is-knowledge-creation-work-different)
 
 
