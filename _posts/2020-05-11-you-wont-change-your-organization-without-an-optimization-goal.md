@@ -7,8 +7,6 @@ header:
 ---
 
 <!--
-English version online here:
-https://seattlescrum.com/you-wont-change-your-organization-without-an-optimization-goal/
 
 title: "You Won't Change Your Organization Without A System Optimization Goal"
 excerpt: 'Why "make everything better” does not work.'
@@ -205,6 +203,10 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 
 
 ![LeSS is hard](../images/less-is-hard.png){: .align-center width="400"}
+
+English version:
+<https://seattlescrum.com/you-wont-change-your-organization-without-an-optimization-goal/>
+
 
 <!--
 1 Adapted from a list Viktor Grgic assembled.
