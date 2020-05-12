@@ -84,3 +84,4 @@ A skillful software development organization allows the Product Owner to *priori
 
 優れたソフトウェア開発組織であれば、プロダクトオーナーは、プロダクトバックログを*並べ替える*だけではなく、ビジネスの観点から*優先順位をつける*ことが許されています。赤い糸はもう片付けてしまいましょう。
 
+{% include video id="y8OnoxKotPQ?rel=0" provider="youtube" %}
