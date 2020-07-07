@@ -14,9 +14,9 @@ permalink: /read-also
 
 ### その他おすすめリンク（日本語）
 
-* [クレイグ・ラーマンの法則](/larmans-laws-jp/)
 * [アジャイルソフトウェア開発宣言](http://agilemanifesto.org/iso/ja/manifesto.html)
 * [アジャイル宣言の背後にある原則](http://agilemanifesto.org/iso/ja/principles.html)
+* [モブプログラミングが当たり前になるまで 〜導入からフルリモート化までの課題と解決〜](https://techblog.yahoo.co.jp/entry/2020052730002064/)
 * [GROOVE X社のCEOによるキーノート・スピーチ](https://www.agilejapan.org/2019/session/keynote-03_GROOVE.pdf) -- こちらが、マネージャー不在の自己マネージチームによりゼロから立ち上げられた会社の興味深い一例です。CEOの林要（はやしかなめ）氏がプロダクトオーナーで、中間にチームアウトプットオーナーは存在していません。なおGROOVE X社は [榎本明仁氏](https://www.odd-e.jp/ja/team_02/) やこの分野に精通したスクラム・マスターにコーチングされています。
 * [GROOVE XがどうLeSSを活用しているか](https://www.agilejapan.org/2019/session/east1-1_GXSM.pdf).
 * [「1プロダクトをみんなで作る！」Rettyでの大規模スクラム(LeSS)導入記](https://engineer.retty.me/entry/2019/12/08/120000)
