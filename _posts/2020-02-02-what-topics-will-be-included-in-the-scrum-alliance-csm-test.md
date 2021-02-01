@@ -10,8 +10,8 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 
 * アジャイルマニュフェスト４つの価値 – Four values of the Agile Manifesto – <https://agilemanifesto.org/iso/ja/manifesto.html>をお読みください
 * アジャイルマニュフェスト１２の原則 – Twelve principles of the Agile Manifesto – <https://agilemanifesto.org/iso/ja/principles.html>をお読みください
-* スクラムの定義 – Definition of Scrum – <https://scrummaster.jp/scrum-guide>をお読みください
-* スクラムとアジャイルの関係 – Relationship of Scrum to Agile 
+* スクラムの定義 – Definition of Scrum – <https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese-2.0.pdf>をお読みください
+* スクラムとアジャイルの関係 – Relationship of Scrum to Agile
 
 ## B. スクラムの理論 – SCRUM THEORY 
 
