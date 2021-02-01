@@ -324,35 +324,35 @@ Ken Schwaber と Jeff Sutherland が、1995 年の OOPSLA カンファレンス�
 
 # ⽤語集
 
-__General Terms ⼀般⽤語__
-Scrum スクラム 
+__General Terms ⼀般⽤語__  
+Scrum スクラム  
 
-__Theory 理論__
-Empiricism 経験主義 
-Transparency 透明性 
-Inspection 検査 
-Adaptation 適応 
+__Theory 理論__  
+Empiricism 経験主義  
+Transparency 透明性  
+Inspection 検査  
+Adaptation 適応  
 
-__Events イベント__
-Sprint スプリント 
-Sprint Planning スプリントプランニング 
-Daily Scrum デイリースクラム 
-Sprint Review スプリントレビュー
-Sprint Retrospective スプリントレトロスペクティブ
+__Events イベント__  
+Sprint スプリント  
+Sprint Planning スプリントプランニング  
+Daily Scrum デイリースクラム  
+Sprint Review スプリントレビュー  
+Sprint Retrospective スプリントレトロスペクティブ  
 
-__Roles 役割__
-Scrum Team スクラムチーム
-Scrum Master スクラムマスター
-Product Owner プロダクトオーナー
-Developers 開発者
+__Roles 役割__  
+Scrum Team スクラムチーム  
+Scrum Master スクラムマスター  
+Product Owner プロダクトオーナー  
+Developers 開発者  
 
-__Artifacts 作成物__
-Product Backlog プロダクトバックログ
-Sprint Backlog スプリントバックログ
-Increment インクリメント
+__Artifacts 作成物__  
+Product Backlog プロダクトバックログ  
+Sprint Backlog スプリントバックログ  
+Increment インクリメント  
 
-__Misc その他__
-Definition of Done 完成の定義
+__Misc その他__  
+Definition of Done 完成の定義  
 
 
 # スクラムガイド 2017 年版からスクラムガイド 2020 年版への変更点
