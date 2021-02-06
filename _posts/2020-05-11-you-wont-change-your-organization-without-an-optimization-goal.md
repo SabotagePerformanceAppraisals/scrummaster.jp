@@ -158,44 +158,15 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 
 以下に示すのは、あなたの組織に存在しうる最適化目標[^1] のリストです。明示的な場合もあれば、黙示的な場合もあります。あなたの状況下で目標同士に整合性がある場合も、ない場合もあります。
 
-<!--
- increased release frequency
- fewer defects in each release
- predictability
- clarity about who does what
- resource utilization (keeping people busy)
- ideation (creating ideas, as IDEO and PARC were known for)
- typing code faster
- secrecy[yes]
- comfort
- employee satisfaction/retention (break this down into different categories of employees: coders, line managers, department heads, etc.)
- customer satisfaction
- appearance that the change initiative has succeeded
- increase top-line revenue
- maintaining lead or monopoly
- reduce cost per developer
- product versatility
- broaden/diversify customer base
- preserve status quo
- compliance with rules/regulations
- lead the market by disruption
- increase return on investment
- survival
- conformance to a plan
- rate of developing features immediately (this week's velocity)
- rate of developing features within this quarter (this quarter's velocity)
- rate of developing features next year (next year's velocity)
--->
-
 * リリース頻度の向上
 * 各リリースにおける欠陥の減少
 * 予測可能性
 * 快適さ
-* order <!-- Yoko, please translate -->
+* order <!-- As in "need for order."  Yoko, please translate. -->
 * 担当者および業務内容の明確性
 * 資源活用（従業員のフル活用）
 * 発想（アイディアの創造。IDEOや PARCが著名な例。）
-* コードのタイピング速度上昇 (maximum source lines of code per day) <!-- Yoko, please translate -->
+* maximum [individual team output](/local-optimization-bias-jp/) <!-- Yoko, please translate -->
 * 秘密性[^yes]
 * 従業員の満足・定着（従業員のカテゴリ別に分ける。例：コーダー、ラインマネジャー、部門長など）
 * 顧客満足度
