@@ -23,11 +23,24 @@ Increase an organization's ability to respond to change.
 
 <!--
 Craig Larman clarifies:
-> tis true that the org design from LeSS is consistent with broad adaptiveness, but... suggest that we coach that adaptiveness is not for its own sake. rather, adaptiveness is in the service of something else: learning towards the discovery and delivery of high value or high impact, in the context of a world in which it's usually difficult to a priori know for sure what is high value/impact, and a world in which competition does stuff, new technologies emerge, new trends emerge, etc.
 -->
 
 クレイグ・ラーマン氏は次のとおり明快に説明しています。
-> 確かに、<!--LeSSの組織設計は幅広い適応力を備えています。-->…ですが、適応力は適応力それ自体のために存在するわけではありません。適応力の存在理由は別の点にあります。それは、高い価値やインパクトを持つものが何かを事前に知るのは非常に難しく、競争が重要で、新技術や新たなトレンドなどが出現してくる世界において、高い価値やインパクトの発見および提供を目指して学ぶということです。
+> 確かに、
+> <!--LeSSの組織設計は幅広い適応力を備えています。-->
+> …ですが、適応力は適応力それ自体のために存在するわけではありません。適応力の存在理由は別の点にあります。それは、高い価値やインパクトを持つものが何かを事前に知るのは非常に難しく、競争が重要で、新技術や新たなトレンドなどが出現してくる世界において、高い価値やインパクトの発見および提供を目指して学ぶということです。
+> 
+> the organizational design from LeSS is consistent with adaptiveness, but... suggest we coach that 
+> adaptiveness is not for its own sake. rather, adaptiveness is in the service of something else: learning 
+> towards the discovery and delivery of high value or high impact, in the context of a world in which it's 
+> usually difficult to a priori know for sure what is high value/impact, and a world in which competition does 
+> stuff, new technologies emerge, new trends emerge, etc.
+> <!-- Yoko, please add Japanese for the following amendment. -->
+> for a product group to demonstrate skillful adaptiveness -- changing to some unanticipated direction -- 2 key elements:
+> 1. the ability to change direction cheaply and quickly. poetically i call this "turn on a dime, for dime."
+> 2. the information to change direction
+>
+> both (1) ability to change, via low transaction and switching costs, and (2) information to change, are needed to realize adaptiveness
 
 <!--
 So, less succinctly:
@@ -53,7 +66,7 @@ with *increased stock price this quarter*.  Or another example, I heard a projec
 trainer say "In my experience, Scrum of Scrums works great!"  And I can see how that could be true, if
 we're optimizing for the sort of problems project managers are usually asked to solve.  But if we're doing
 Scrum to increase agility,
-we'll want to consider some [better alternatives](/seven-alternatives-to-scrum-of-scrums/#coordination--integration-what-to-do-instead).
+we'll want to consider some [more agile alternatives](/seven-alternatives-to-scrum-of-scrums/#coordination--integration-what-to-do-instead).
 -->
 
 ## 「全てを改良する」では駄目なのか
@@ -177,12 +190,13 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * リリース頻度の向上
 * 各リリースにおける欠陥の減少
 * 予測可能性
+* 快適さ
+* order <!-- Yoko, please translate -->
 * 担当者および業務内容の明確性
 * 資源活用（従業員のフル活用）
 * 発想（アイディアの創造。IDEOや PARCが著名な例。）
-* コードのタイピング速度上昇
+* コードのタイピング速度上昇 (maximum source lines of code per day) <!-- Yoko, please translate -->
 * 秘密性[^yes]
-* 快適さ
 * 従業員の満足・定着（従業員のカテゴリ別に分ける。例：コーダー、ラインマネジャー、部門長など）
 * 顧客満足度
 * 変革戦略が成功したような外観
