@@ -1,6 +1,6 @@
 ---
 permalink: /scrum-guide
-title: "スクラムガイド TM"
+title: "スクラムガイド"
 author_profile: false
 toc: true
 classes: single
