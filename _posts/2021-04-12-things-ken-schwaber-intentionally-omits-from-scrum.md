@@ -117,3 +117,6 @@ title: "ケン・シュエーバーが意図的にスクラムから排除した
 英語版（原文）は、
 <https://seattlescrum.com/things-ken-schwaber-intentionally-omits-from-scrum/>でご覧ください。
 
+----
+
+この記事を翻訳するにあたり、[荒瀬 中人様](https://www.linkedin.com/in/nakato-arase-6a8b28135/)より多大なご協力をいただきました。
