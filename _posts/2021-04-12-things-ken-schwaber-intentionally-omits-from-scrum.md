@@ -119,4 +119,9 @@ title: "ケン・シュエーバーが意図的にスクラムから排除した
 
 ----
 
+## "Scrum!"  You keep using that word ...
+{% include video id="dTRKCXC0JFg?rel=0" provider="youtube" %}
+
+----
+
 この記事を翻訳するにあたり、[荒瀬 中人氏](https://www.linkedin.com/in/nakato-arase-6a8b28135/)と[今西 健太氏](https://www.linkedin.com/in/kenta-imanishi-55697220b/)よりご協力をいただきました。
