@@ -18,6 +18,8 @@ title: "ケン・シュエーバーが意図的にスクラムから排除した
 * [運営レポートとしてのバーンダウンチャート（またはバーンダウンチャートそのもの）](#スクラムにバーンダウンチャートは含まれない)
 * [コーディネーター（調整役）、モーチベーター、または進捗報告者としてのスクラムマスター](#スクラムマスターはコーディネーター調整役やモーチベーターまたは進捗報告者ではない)
 * [監視ツールとしてのスプリントバックログ](#監視ツールとしてのスプリントバックログ)
+* [単機能チーム](#スクラムには単機能チームは存在しない)
+
 
 スクラムに当初意図されていたことは、フィードバックループを繋ぎ、仕事をコントロールしやすくするためのフレームワーク及びメタプロセスであることです。あなたが仕事で経験しているスクラムは、これらの意図から離れていったものである可能性が高いと考えられます。
 
@@ -109,13 +111,70 @@ title: "ケン・シュエーバーが意図的にスクラムから排除した
 
 とあります。
 
-マイクロソフト勤務の人が、ケン・シュエーバーに「なぜチームの自己管理作成物（例えばスプリントバックログのタスクボードやスプリントバーンダウンチャート）を社内全体に公開するべきではないのか」と質問していたのを耳にしたことがあります。スクラムで定義されている透明性が曲解されていることにお気づきでしょうか。ケンはまず、チームは自己組織するものである、と改めて明言しました。そして、どうしてチーム外の人間がそのチームのスプリント中に干渉したがるのか知りたいものだと付け加えました。
+マイクロソフト勤務の人が、ケン・シュエーバーに「なぜチームの自己管理作成物（例えばスプリントバックログのタスクボードやスプリントバーンダウンチャート）を社内全体に公開するべきではないのか」と質問していたのを耳にしたことがあります。スクラムで定義されている透明性が曲解されていることにお気づきでしょうか。ケンはまず、チームは自己組織するものである、と改めて明言しました。そして、どうしてチーム外の人間がそのチームのスプリント中に干渉したがるのか知りたいものだ、と付け加えました。
 
 スプリントレビューは、仕事の結果をチーム外に見せる最適な機会です。チーム外からのフィードバックは、その時に歓迎されます。プロダクトオーナーはその後、フィードバックにどのように適応するか決定します。
 
+## スクラムには単機能チームは存在しない
+
+
+1986年のハーバードビジネスレビューに掲載されたある文献は、*クロスファンクショナル（機能横断型）チーム*の成果という魔法をもたらし、今日に至るまでスクラムガイドを通してスクラムに影響を与え続けています。著者の竹内弘高氏と野中郁次郎氏はこのように述べています。
+> Under the old approach, a product development process moved like a relay race, with one group of functional specialists passing the baton to the next group. Under the rugby approach, the product development process emerges from the constant interaction of a hand-picked, multidisciplinary team whose members work together from start to finish.
+>
+> 過去のアプローチでは、プロダクト開発のプロセスはリレー競争のように進みました。機能スペシャリストの１グループがバトンを次のグループに渡す、とういう具合にです。 ラグビーのアプローチでは、プロダクト開発のプロセスは、メンバーが最初から最後まで協力する、多種分野にわたる厳選されたチームの絶え間ない相互作用から生まれます。[^newnew]
+
+
+クロスファンクショナル（機能横断型）チーム正反対の位置にあるのが*単機能チーム*です。単機能チームは、組織や会社の至るところに存在します。
+* 分析（要求の詳細を記述）
+* コーディング（コーディングが仕事の大半を占めるが、テストは十分にしない）
+* QA（テストのみ）
+* インテグレーション（結合）
+* 偽のDevOps（本物のDevOpsは多機能）
+* プロダクト（プロダクトマネジメント）
+* UX/UI
+* サポート（ときに、サポート部が[コントロール部](/local-optimization-bias-jp/#%E4%BE%8B2)になってしまうこともある）
+* マーケティング
+* アーキテクチャ
+* リスク管理
+* 情報セキュリティ
+* メンテナンス
+* オペレーション
+* 消火活動
+* その他諸々
+
+
+世界にあるすべてのものが「スクラム」と呼ばれる必要はありません。 単機能チームまたは部署の存在は、必ずしも有害ではありません。 スクラムと呼ばれるものが生み出される前に、人間は何千年もの間仕事をこなしてきました。仕事の種類（特に[物理的な依存関係](/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics)）によっては、順次アプローチが必要になる場合があります。ケン・シュエーバーでさえも、以下のように記述しています。
+
+> If waterfall meets current needs, keep doing it.
+>
+> ウォーターフォール開発や従来のプロジェクト管理が現在の状態に合っている場合は、引き続き使用してください。
+
+
+しかし、単機能チーム（または部署）を「スクラム」チームと呼ぶことは*矛盾*です。 スクラムではないものにスクラム用語を使用する正当な理由はありますか？ ジョージオーウェルはこう記しました。
+
+> If thought corrupts language, language can also corrupt thought.
+>
+> 思考が言語を破壊する場合、言語も思考を破壊する可能性があります。
+
+スクラム用語を乱用すると、スクラムが実際に何であるかを悟ることができなくなります。
+
+### 裕福な方法論者になる方法
+
+単機能チームの「プロダクトオーナー」[^fake]が、単機能チームに対応する方法論を発明したら私は大儲けすることができる、と話してきたことがあります。ケン・シュエイバー、竹内氏や野中氏は単機能チームの存在に気づいていないと思ったのでしょうか？[スクラムは機能的な障害をおおい隠すのではなく、明らかにすることを目的としているのです](/scrum-is-hard-and-disruptive)。
+
+2000年頃、従来の組織設計にまったく変更を加える必要がないように「調整」できるラショナル統一プロセス（RUP）と呼ばれるもので大金を稼ぐ人が出てきました。 もちろん、それは惨事でした。 アリスター・コーバーン
+（[アジャイルソフトウェア開発宣言
+](https://https://agilemanifesto.org/iso/ja/manifesto.html)の共著者）は明らかにRUPのファンではありませんでした。
+> I am interested in fending off the fat methodology army, the vast quantity of RUP, \[Arthur\] Anderson \[now Accenture\], SEI \[Software Engineering Institute\] salespeople putting ideas into CIOs' minds that they should have lots of paperwork to be "safe".
+>
+> 肥えた方法論者の大群や、膨大な量のRUP、そして\[Arthur \] Anderson \[now Accenture \]、SEI \[Software Engineering Institute \]の営業担当者が吹き込もうする「安全」であるためには多くの事務処理が必要であるという考えからCIOたちを守ることが、私の目下の関心だ。
+
+
+RUPの大暴走に一役買ったある人物は、RUPを[SAFe](https://www.lafable.com)と名付けて、巨大で根本的に不正なものに再パッケージ化しました。。まさに、「一度だまされたらだました者の恥、二度だまされたらだまされた者の恥」の一言に尽きます。
+
 ----
 英語版（原文）は、
-<https://seattlescrum.com/things-ken-schwaber-intentionally-omits-from-scrum/>でご覧ください。
+<https://seattlescrum.com/things-ken-schwaber-intentionally-omits-from-scrum/>にてご覧ください。
 
 ----
 
@@ -125,3 +184,8 @@ title: "ケン・シュエーバーが意図的にスクラムから排除した
 ----
 
 この記事を翻訳するにあたり、[荒瀬 中人氏](https://www.linkedin.com/in/nakato-arase-6a8b28135/)と[今西 健太氏](https://www.linkedin.com/in/kenta-imanishi-55697220b/)よりご協力をいただきました。
+
+
+[^newnew]: _The New New Product Development Game_ by Hirotaka Takeuchi and Ikujiro Nonaka
+[^fake]: A single-function team (or department) is only one part of producing a real product.  It does not have a "Product Owner."
+
