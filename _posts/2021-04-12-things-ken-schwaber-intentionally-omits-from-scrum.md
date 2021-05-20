@@ -178,7 +178,7 @@ RUPの大暴走に一役買ったある人物は、RUPを[SAFe](https://www.lafa
 
 ----
 
-## "Scrum!"  You keep using that word ...
+## "Scrum!"  You keep using that word …
 {% include video id="dTRKCXC0JFg?rel=0" provider="youtube" %}
 
 ----
@@ -187,5 +187,5 @@ RUPの大暴走に一役買ったある人物は、RUPを[SAFe](https://www.lafa
 
 
 [^newnew]: _The New New Product Development Game_ by Hirotaka Takeuchi and Ikujiro Nonaka
-[^fake]: A single-function team (or department) is only one part of producing a real product.  It does not have a "Product Owner."
 
+[^fake]: 単機能チーム（または部署）は、実際の製品を生産するためのほんの一部です。 そこに「プロダクトオーナー」は存在しません。
