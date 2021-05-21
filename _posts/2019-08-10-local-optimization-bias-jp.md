@@ -30,14 +30,34 @@ The following video illustrates local optimization in a typical organization.  A
 
 {% include video id="HnbNcQlzV-4?rel=0" provider="youtube" %}
 
-
 {::comment}
-## Example 2
-
-During the 1980’s I had a brief stint in an IT department. Our IT department was actually called Information Services & Control (IS&C). One of my responsibilities was to prevent engineering teams from buying the tools they wanted to use because we could bulk purchase slightly cheaper alternatives that were “almost as good,” or to force people to use our unwieldy Univac mainframe. This is a reasonable argument that could be right in some cases.
+In the video above, *all three employees are acting correctly*!  It's easy to demonize the line manager, but she is doing exactly what she should be doing for her role in the organization, given the current structure and policies.  
 {:/comment}
 
+上の動画では、 3人の従業員全員が正しく行動しています！ ラインマネージャーを悪者にするのは簡単ですが、動画内で設定されている組織の構造と方針を考慮すると、彼女は組織での自分の役割を正確に果たしています。
+
+### アクションなしのトレーニングは「チェンジ・シアター」を生み出しますか？
+
+{::comment}
+Just sending them to Scrum or LeSS training without changing the organizational design will not make a difference other than renaming the roles to Agile-sounding labels, inoculating the organization from fundamental change.  Without changes to organizational design, it's also futile to send the line manager to [leadership training](https://www.amazon.com/Leadership-BS-Fixing-Workplaces-Careers/dp/0062383167) or lecturing her to change her mindset and behavior.  Why should she?  As Craig Larman would say (paraphrasing [Larman's Laws](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)),
+{:/comment}
+
+
+組織設計を変更せずに、従業員をスクラムやLeSSのトレーニングに送り込むと、ただ役割の名称をアジャイルらしく変更する結果に終わるだけでなく、根本的な組織の変化を阻むことになってしまいます。 組織設計を変更せずに、ラインマネージャーを[リーダーシップトレーニング](https://www.amazon.com/Leadership-BS-Fixing-Workplaces-Careers/dp/0062383167)に派遣したり、そのラインマネージャーに考え方や行動を変えるように説くことも無駄です。組織設計は従来のままなのに、考え方や行動を新たにする必要があるでしょうか？Craig Larmanが言うように（[Larman's Laws](/larmans-laws-jp)より、わかりやすく書き換えてあります）、
+
+
+> 文化は構造に従います。確立された大規模なグループでは、文化や行動や考え方は、組織の体制や設計に従い、そして影響されます。すなわち、確立された大規模な組織で、実際に文化を変えたければ、まずは組織の体制から変えなければなりません（グループ、チーム、役割と責任、階層、昇進、方針、査定と報酬の仕組みなど）。そうでなければ、本当の意味で文化は変わらないでしょう。
+>
+> 別の言い方をすると、組織の体制は考え方や行動に強く影響します。
+>
+> Culture follows structure.  In big established groups, culture/behavior/mindset follows and is influenced by changes in the organizational system and design. That is, in large established organizations, if you want to really change culture, you have to start with changing the organizational system (groups, teams, roles and responsibilities, hierarchies, career paths, policies, measurement and reward mechanisms, etc), because culture does not really change otherwise.
+>
+> Said another way, the organizational system is strongly influential on mindset and behavior.
+
 ## 例2
+{::comment}
+During the 1980’s I had a brief stint in an IT department. Our IT department was actually called Information Services & Control (IS&C). One of my responsibilities was to prevent engineering teams from buying the tools they wanted to use because we could bulk purchase slightly cheaper alternatives that were “almost as good,” or to force people to use our unwieldy Univac mainframe. This is a reasonable argument that could be right in some cases.
+{:/comment}
 
 1980年代に、私はしばらくの間IT部門に配属されたことがあります。当時の会社のIT部門は、Information Services&Control (IS&C) と呼ばれていました。IS&C在籍中の私の仕事には、エンジニアリングチームが使用したいツールを購入できないようにするということが含まれていました。というのは、IS&Cは「ほぼ同じ」機能を持つわずかに安い代替品を大量購入することにより経費を節約できる、そして扱いにくいUnivacメインフレームの使用を強制させることにより、全てのデータをコントロールできると考えたからです。こうしたやり方は合理的で、場合によっては正しいこともあります。
 
@@ -59,7 +79,7 @@ During the 1980’s I had a brief stint in an IT department. Our IT department w
 
 ## 例3
 
-[![チームの生産性 局所最適化バイアス](../images/team-productivity-local-optimization-bias.png){: .align-center width="340"}](/)
+[![チームの生産性 局所最適化バイアス](../images/team-productivity-local-optimization-bias.png){: .align-center width="340"}](/why-scrum-isnt-making-your-company-very-agile)
 
 
 {::comment}Beginning Scrum Masters –– including some book authors –– focus on trying to make "hyperproductive" teams instead of helping the product development organization become better able to learn and adapt.{:/comment}
@@ -75,9 +95,9 @@ During the 1980’s I had a brief stint in an IT department. Our IT department w
 もし局所最適化の例がありましたら、ぜひご連絡ください。
 
 {::comment}
-> Wheels within wheels in a spiral array 
-> A pattern so grand and complex 
-> Time after time we lose sight of the way 
+> Wheels within wheels in a spiral array
+> A pattern so grand and complex
+> Time after time we lose sight of the way
 > Our causes can't see their effects.
 
 -- Rush
@@ -86,7 +106,7 @@ During the 1980’s I had a brief stint in an IT department. Our IT department w
 > らせん状の通路の中、幾重にも重なり合う輪  
 > その模様は壮大で複雑  
 > 何度も何度も僕らは途中で視界を失い  
-> 原因は思わぬ結果を生み出す  
+> 原因は思わぬ結果を生み出す
 
 --ラッシュ
 
@@ -100,4 +120,3 @@ During the 1980’s I had a brief stint in an IT department. Our IT department w
 * * *
 
 [English version](https://seattlescrum.com/local-optimization-bias/)
-
