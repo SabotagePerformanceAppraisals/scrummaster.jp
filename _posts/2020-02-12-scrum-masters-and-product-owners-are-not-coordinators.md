@@ -13,6 +13,8 @@ permalink: /scrum-masters-and-product-owners-are-not-coordinators
 
 > また、開発者が顧客から詳細な説明を受けられるように、これを阻むバリアを取り除き、これ以上、チームアウトプットオーナーが開発者に手取り足取り教えなくて済むようにします。
 
+[スクラムマスターの５つのツール](/downloads/5-scrummaster-tools-jp.pdf)
+
 ![page 27](/images/page-27.png)
 
 [![LeSS Roles](/images/less-role-responsibilities.jp.png)](https://less.works/jp/less/management/role-of-manager.html)
