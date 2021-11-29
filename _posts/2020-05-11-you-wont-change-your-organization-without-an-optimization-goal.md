@@ -162,11 +162,11 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * 各リリースにおける欠陥の減少
 * 予測可能性
 * 快適さ
-* order <!-- As in "need for order."  Yoko, please translate. -->
+* 順序である <!-- As in "need for order."  Yoko, please doublecheck. -->
 * 担当者および業務内容の明確性
 * 資源活用（従業員のフル活用）
 * 発想（アイディアの創造。IDEOや PARCが著名な例。）
-* maximum [individual team output](/local-optimization-bias-jp/) <!-- Yoko, please translate -->
+* [単一チームの最大のアウトプット](/local-optimization-bias-jp/) <!-- Yoko, please translate -->
 * 秘密性[^yes]
 * 従業員の満足・定着（従業員のカテゴリ別に分ける。例：コーダー、ラインマネジャー、部門長など）
 * 顧客満足度
