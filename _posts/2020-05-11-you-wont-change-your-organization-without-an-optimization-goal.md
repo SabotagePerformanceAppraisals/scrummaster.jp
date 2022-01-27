@@ -27,26 +27,15 @@ Craig Larman clarifies:
 
 クレイグ・ラーマン氏は次のとおり明快に説明しています。
 > 確かに、
-> <!--LeSSの組織設計は幅広い適応力を備えています。-->
-> …ですが、適応力は適応力それ自体のために存在するわけではありません。適応力の存在理由は別の点にあります。それは、高い価値やインパクトを持つものが何かを事前に知るのは非常に難しく、競争が重要で、新技術や新たなトレンドなどが出現してくる世界において、高い価値やインパクトの発見および提供を目指して学ぶということです。
+> LeSSの組織設計は幅広い適応力を備えています。
 > 
-> the organizational design from LeSS is consistent with adaptiveness, but... suggest we coach that 
-> adaptiveness is not for its own sake. rather, adaptiveness is in the service of something else: learning 
-> towards the discovery and delivery of high value or high impact, in the context of a world in which it's 
-> usually difficult to a priori know for sure what is high value/impact, and a world in which competition does 
-> stuff, new technologies emerge, new trends emerge, etc.
-> <!-- Yoko, please add Japanese for the following amendment. -->
+> …ですが、適応力は適応力それ自体のために存在するわけではありません。適応力の存在理由は別の点にあります。それは、高い価値やインパクトを持つものが何かを事前に知るのは非常に難しく、競争が重要で、新技術や新たなトレンドなどが出現してくる世界において、高い価値やインパクトの発見および提供を目指して学ぶということです。
+>
 > プロダクト開発グループが適応性（adaptiveness, アダプティブネス） -- 予期しない方向性の変更 -- を上手く発揮できるための2つの要素：
 > 1. 余計なコスト（手間）なく、迅速に方向性を変えられること
 > 2. 方向性を決めるための情報
 >
 > 適応性を実現するためには（1）、方向性を変更できる体制、も（2）、方向性変更のための情報、も両方必要です。
->
-> for a product group to demonstrate skillful adaptiveness -- changing to some unanticipated direction -- 2 key elements:
-> 1. the ability to change direction cheaply and quickly. poetically i call this "turn on a dime, for dime."
-> 2. the information to change direction
-> 
-> both (1) ability to change, via low transaction and switching costs, and (2) information to change, are needed to realize adaptiveness.
 
 <!--
 So, less succinctly:
