@@ -36,11 +36,17 @@ Craig Larman clarifies:
 > usually difficult to a priori know for sure what is high value/impact, and a world in which competition does 
 > stuff, new technologies emerge, new trends emerge, etc.
 > <!-- Yoko, please add Japanese for the following amendment. -->
+> プロダクト開発グループが適応性（adaptiveness, アダプティブネス） -- 予期しない方向性の変更 -- を上手く発揮できるための2つの要素：
+> 1. 余計なコスト（手間）なく、迅速に方向性を変えられること
+> 2. 方向性を決めるための情報
+>
+> 適応性を実現するためには（1）、方向性を変更できる体制、も（2）、方向性変更のための情報、も両方必要です。
+>
 > for a product group to demonstrate skillful adaptiveness -- changing to some unanticipated direction -- 2 key elements:
 > 1. the ability to change direction cheaply and quickly. poetically i call this "turn on a dime, for dime."
 > 2. the information to change direction
->
-> both (1) ability to change, via low transaction and switching costs, and (2) information to change, are needed to realize adaptiveness
+> 
+> both (1) ability to change, via low transaction and switching costs, and (2) information to change, are needed to realize adaptiveness.
 
 <!--
 So, less succinctly:
