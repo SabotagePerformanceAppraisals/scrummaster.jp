@@ -1,10 +1,12 @@
 ---
 title: "チームの自己設計を導入する方法"
+excerpt: "マネージャによって作られた自己管理型のチームは、意味があるのでしょうか？組織は自己管理型チーム
+に対する準備ができていますか？それともこのアイディアは過激すぎますか？"
 ---
 
 {% include video id="9mLMndzlVnk?rel=0" provider="youtube" %}
-Author: Ahmad Fahmy
-翻訳：清水 弘毅
+#### Author: Ahmad Fahmy
+#### 翻訳：清水 弘毅
 
 ----
 
