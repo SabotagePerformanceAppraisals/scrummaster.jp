@@ -16,12 +16,12 @@ header:
 CSMテストやCLP研修に向けて、下記の事柄を確認することをお勧めします。
 
 1. [新しいScrumAlliance CSMテストには、どのようなトピックが出題されますか？](/what-topics-will-be-included-in-the-scrum-alliance-csm-test/)を読んでください。
-2. [スクラムガイド ](/scrum-guide)を読んで、不明な点があればリストアップしてください。
-3. [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html) と、 [アジャイル宣言の背後にある原則](https://agilemanifesto.org/iso/ja/principles.html)を読んでください。
-4. [練習問題　スクラム/LeSSで定義されている役割　パート1](/scrum-and-less-roles-quiz-part-1/)を試してください。
+2. <https://scrumtraining.jp>。【任意】英語でもOK！という方は、<https://scrumtrainingseries.com/>もお試しください。
+3. [スクラムガイド ](/scrum-guide)を読んで、不明な点があればリストアップしてください。
+4. [アジャイルソフトウェア開発宣言](https://agilemanifesto.org/iso/ja/manifesto.html) と、 [アジャイル宣言の背後にある原則](https://agilemanifesto.org/iso/ja/principles.html)を読んでください。
+5. [練習問題　スクラム/LeSSで定義されている役割　パート1](/scrum-and-less-roles-quiz-part-1/)を試してください。
 
-5. [クイックスクラムクイズ1](/quick-scrum-quiz/)を試して、間違えた問題に注意してください。
-6. 【任意】英語でもOK！という方は、<http://ScrumTrainingSeries.com/>もお試しください。
+6. [クイックスクラムクイズ1](/quick-scrum-quiz/)を試して、間違えた問題に注意してください。
 7. 【任意】さらに（英語で）チャレンジしたい！という方は、[スクラムアライアンスとは別団体である、Scrum.orgによるこちらの練習問題](https://www.scrum.org/open-assessments/scrum-open)もお試しください。
 8. 上記の段階の途中でも、やる気が出なかったり抵抗や挫折を感じたりしてお困りの場合は、いつでもメールまたはSlackでお知らせください（英語・日本語可）。
 9. 私がメールまたはSlackでご質問にお答えします。
