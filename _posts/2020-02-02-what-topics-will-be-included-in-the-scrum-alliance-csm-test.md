@@ -19,7 +19,7 @@ CSM候補の方々の中には、ScrumAllianceの新しい認定テストに若�
 * 経験的プロセス制御の３本柱とその重要性 – The 3 pillars of empirical process control and their importance 
 * スクラムの重要な特徴の「漸進的(インクリメント)」な進め方やその理由 – How and why _incremental_ is an important characteristic of Scrum 
 * スクラムの重要な特徴の「反復的(イテレーティブ)」な進め方やその理由 – How and why _iterative_ is an important characteristic of Scrum 
-* スクラムの適応(様々な製造業での複雑なプロダクトの作業管理) – Applicability of Scrum (addresses complex adaptive problems across multiple industries) – <https://scrumtraining.jp>と<https://scrummaster.jp/introduction-to-scrum-translation-in-progress-jp/>をお読みください
+* スクラムの適用(様々な製造業での複雑なプロダクトの作業管理) – Applicability of Scrum (addresses complex adaptive problems across multiple industries) – <https://scrumtraining.jp>と<https://scrummaster.jp/introduction-to-scrum-translation-in-progress-jp/>をお読みください
 
 ## C. スクラムの価値基準 – SCRUM VALUES 
 
