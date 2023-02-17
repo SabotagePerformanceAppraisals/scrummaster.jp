@@ -1,6 +1,6 @@
 ---
+title: '私がベロシティをほとんど使わない理由'
 classes: single
-header:
 og_image: /images/velocity.png
 teaser: /images/velocity.png
 ---
@@ -142,3 +142,7 @@ COMMENT (from Adam Gauvin):
 > E) メトリクス収集の名の下に、多くの時間とリソースを浪費します。
 >
 > F) 実際に役立つはずの優秀な開発者をより多く雇うよりも、PMOやポートフォリオ管理のために（ベロシティやバーンダウンの計測、チームの報告のために…）多くの無駄なリソースを消費したことに気がつきます。
+
+---
+
+**この記事を翻訳するにあたり、[清水 弘毅様](https://twitter.com/Koki_jp)よりご協力をいただきました。**
