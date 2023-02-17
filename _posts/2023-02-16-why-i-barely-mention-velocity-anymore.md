@@ -1,6 +1,5 @@
 ---
-title: '私がベロシティをほとんど使わない理由'
-classes: single
+title: '私がもはやベロシティについてほとんど話さない理由'
 og_image: /images/velocity.png
 teaser: /images/velocity.png
 ---
