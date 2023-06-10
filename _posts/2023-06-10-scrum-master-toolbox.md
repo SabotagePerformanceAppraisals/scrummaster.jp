@@ -1,7 +1,7 @@
 ---
 title: 'スクラムマスターの道具箱'
-og_image: /images/toolbox.png
-teaser: /images/toolbox.png
+og_image: /images/toolbox.svg
+teaser: /images/toolbox.svg
 ---
 1. 積極的に何もしないこと。例えば、黙って観察しながら、介入したい衝動を抑える。
 2. チームを考えさせたり、議論を促進するような問いかけをする
