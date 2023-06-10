@@ -9,9 +9,12 @@ teaser: /images/toolbox.svg
 4. 行動をモデリングする（お手本になる。）つまり、他のチームメンバーに真似して欲しいように振る舞う。 技術力のあるスクラムマスターの場合、人とのペアプログラミングなども含む。
 5. 最後の手段：割り込む。
 
----
+![toolbox](../images/toolbox.svg){: .align-center width="150"}
+
 
 以下も参照してください。
 * ![NVC](../images/NVC-book-cover.png){: width="300"}
 * [Actively doing nothing](https://less.works/blog/2019/12/16/actively-doing-nothing.html) by Bas Vodde.
+* [スクラムトレーニングシリーズ ・ モジュール6](http://scrumtraining.jp/6-Sprint-Retrospective/)
+* [スクラムマスターチェックリスト](https://scrummasterchecklist.org/pdf/Scrum-Master-Checklist-jp.pdf)
 
