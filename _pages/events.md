@@ -6,9 +6,16 @@ toc: true
 ---
 ## 日本のアジャイルとスクラムに関する推奨教育イベント
 
+### カレンダー
+
+| 日程       |                  研修                  |   所在地  | 言語 | 価格[^price] |                             詳細                             |
+| :----------:|:------------------------------------------:|:-----------:|:--------------------:|:---------------------------------------------------------------:|
+| 2023年07月31日～8月04日 | 認定スクラムマスター (CSM) + 認定LeSS ベーシック (CLB) 日本語 | 日本語 | ライブ・バーチャル[^virtual] |     $2400 (税込み)      | [詳細](https://training.tech-kai.com/tech/user/courses/326) |
+| 2023年09月04日～08日 | 認定スクラムマスター (CSM) + 認定LeSS ベーシック (CLB) 日本語 | 日本語 | Lライブ・バーチャル[^virtual] |     $2400 (税込み)      | [詳細](https://training.tech-kai.com/tech/user/courses/331) |
+
 ### CSM研修を探す  (Certified Scrum Master) 
 
-[研修は通常、秋葉原で開催されています。![Tokyo CSM Class](/images/tokyo-CSM-class-wide-3.jpg)](https://www.odd-e.jp/training/) 
+研修は通常、秋葉原で開催されています。![Tokyo CSM Class](/images/tokyo-CSM-class-wide-3.jpg)
 
 ### CSD研修を探す (Certified Scrum Developer)
 
@@ -32,3 +39,5 @@ toc: true
 ---
 
 ---
+[^price]: 価格は米ドル、税込み。
+[^virtual]: このセッションはZoomとMiroを使って行います。 時間の約半分はペアやチームで交流します。 授業は休憩を含めて午前9時から午後3時までです。
