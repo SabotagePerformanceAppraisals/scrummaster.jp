@@ -112,7 +112,7 @@ analytics:
 author:
   name             : "MJ"
   avatar           : "/images/MJ_headshot_line_drawing_adjusted.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "私が講師を務める次回の認定スクラムマスター研修（CSM）及び認定 LeSS Basics (CLB）研修は、7月31日〜8月4日に開催される予定です。研修の予約は<a href=\"https://training.tech-kai.com/tech/user/courses/326\">https://training.tech-kai.com/tech/user/courses/326</a>よりお願いします。<br/><br/>私は、日本とアメリカで活動しています。スクラムおよびLeSS開発にかんする遠隔コンサルティングならびに遠隔教育サポートも行なっております。詳しくは、mj@odd-e.comまで、日本語または英語でお問い合わせください。また、スクラムアライアンスによるCSMテスト準備もお手伝いさせていただきます。 スクラム研修の経験の有無にかかわらず、初心者から上級者までお客様のサポートをさせていただきます。私は、初期のスクラム本の執筆者であるケン・シュエーバーからスクラムを直伝されました。"
+  bio              : "私が講師を務める次回の認定スクラムマスター研修（CSM）及び認定 LeSS Basics (CLB）研修は、7月31日〜8月4日に開催される予定です。研修の予約は<u><a href=\"https://training.tech-kai.com/tech/user/courses/326\">こちら</a></u>よりお願いします。<br/><br/>私は、日本とアメリカで活動しています。スクラムおよびLeSS開発にかんする遠隔コンサルティングならびに遠隔教育サポートも行なっております。詳しくは、mj@odd-e.comまで、日本語または英語でお問い合わせください。また、スクラムアライアンスによるCSMテスト準備もお手伝いさせていただきます。 スクラム研修の経験の有無にかかわらず、初心者から上級者までお客様のサポートをさせていただきます。私は、初期のスクラム本の執筆者であるケン・シュエーバーからスクラムを直伝されました。"
   location         :
   email            : "mj@odd-e.com"
   links:
