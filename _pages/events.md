@@ -17,27 +17,27 @@ toc: true
 
 研修は通常、秋葉原で開催されています。コロナ禍中にオンライン研修に移行しましたが、秋葉原での対面研修の再開を検討しています。 対面・オンラインについては、ご希望をお伝えください。
 
-| ![Certified Scrum Master](/images/scrum-alliance-csm-logo.png){: .align-left width="300px"} | ![Tokyo CSM](/images/tokyo-CSM-class-wide-3.jpg) |
+| ![Certified Scrum Master](/images/scrum-alliance-csm-logo.png){: width="300"} | ![Tokyo CSM](/images/tokyo-CSM-class-wide-3.jpg) |
 
 ### CLB研修を探す (認定LeSS基礎研修)
 
 LeSSの理解は、スクラムを正しく理解することから始まります。 したがって通常、CLB研修にはCSM研修が含まれます。
-詳しくは、[こちら](/certified-less-basics-clb-course-description-jp/)をご覧ください。g
+詳しくは、[こちら](/certified-less-basics-clb-course-description-jp/)をご覧ください。
 
-| ![Certified LeSS Basics](/images/certified-less-basics.png){: .align-left width="300px"} | ![Tokyo CLB](/images/tokyo-CLB-class.jpg) |
+| ![Certified LeSS Basics](/images/certified-less-basics.png){: width="150"} | ![Tokyo CLB](/images/tokyo-CLB-class.jpg) |
 
 
 ### CSD研修を探す (認定スクラム実践者研修)
 
 CSDは東京の提携会社を通じて、またはオンラインで教えています。 金井大輝、テリー・リム、エマーソン・ミルズのトレーナーを推薦します。
 
-| ![Certified Scrum Developer](/images/scrum-alliance-csd-logo.png){: .align-left width="300px"} | ![Tokyo CSD Class](/images/tokyo-CSD-class.jpg) |
+| ![Certified Scrum Developer](/images/scrum-alliance-csd-logo.png){: width="300"} | ![Tokyo CSD Class](/images/tokyo-CSD-class.jpg) |
 
 
 
 ### CLP研修を探す (認定LeSS実践者研修)
 
-| ![Certified LeSS Practitioner](/images/CLP.png){: .align-left width="300px"} | ![Tokyo CLP Class](/images/tokyo-CLP-class.jpg) |
+| ![Certified LeSS Practitioner](/images/CLP.png){: width="320"} | ![Tokyo CLP Class](/images/tokyo-CLP-class.jpg) |
 
 ## コミュニティ・イベント
 
