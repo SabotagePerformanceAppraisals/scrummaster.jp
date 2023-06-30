@@ -29,7 +29,7 @@ LeSSの理解は、スクラムを正しく理解することから始まりま�
 
 ### CSD研修を探す (認定スクラム実践者研修)
 
-CSDは東京の提携会社を通じて、またはオンラインにて開催しております。 私が推薦するトレーナーは、金井大輝、テリー・リム、エマーソン・ミルズです。
+CSDは東京の提携会社を通じて、またはオンラインにて開催しております。 私が推薦するトレーナーは、金井大輝、テリー・リム、エマーソン・ミルズです、スタンリー・ラウ。
 
 | ![Certified Scrum Developer](/images/scrum-alliance-csd-logo.png){: width="300"} | ![Tokyo CSD Class](/images/tokyo-CSD-class.jpg) |
 
