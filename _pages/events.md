@@ -13,13 +13,13 @@ toc: true
 | 2023年7月31日～8月4日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) 日本語 | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^price]      | [詳細](https://training.tech-kai.com/tech/user/courses/326) |
 | 2023年9月4日～9月8日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) 日本語 | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^price]      | [詳細](https://training.tech-kai.com/tech/user/courses/331) |
 
-### CSM研修を探す  (認定スクラムマスター研修)
+### CSM研修  (認定スクラムマスター研修)
 詳しくは、[こちら](/CSM/)をご覧ください。
 研修は通常、秋葉原で開催されています。コロナ禍中にオンライン研修に移行しましたが、秋葉原での対面研修の再開を検討しています。 対面・オンラインについては、ご希望をお伝えください。
 
 | ![Certified Scrum Master](/images/scrum-alliance-csm-logo.png){: width="300"} | ![Tokyo CSM](/images/tokyo-CSM-class-wide-3.jpg) |
 
-### CLB研修を探す (認定LeSS基礎研修)
+### CLB研修 (認定LeSS基礎研修)
 
 LeSSの理解は、スクラムを正しく理解することから始まります。 したがって通常、CLB研修にはCSM研修が含まれます。
 詳しくは、[こちら](/certified-less-basics-clb-course-description-jp/)をご覧ください。
@@ -27,7 +27,7 @@ LeSSの理解は、スクラムを正しく理解することから始まりま�
 | ![Certified LeSS Basics](/images/certified-less-basics.png){: width="170"} | ![Tokyo CLB](/images/tokyo-CLB-class.jpg) |
 
 
-### CSD研修を探す (認定スクラム実践者研修)
+### CSD研修 (認定スクラム実践者研修)
 
 CSDは東京の提携会社を通じて、またはオンラインにて開催しております。 私が推薦するトレーナーは、金井大輝、テリー・リム、エマーソン・ミルズです、スタンリー・ラウ。
 
@@ -35,7 +35,7 @@ CSDは東京の提携会社を通じて、またはオンラインにて開催�
 
 
 
-### CLP研修を探す (認定LeSS実践者研修)
+### CLP研修 (認定LeSS実践者研修)
 
 CLPは、東京の提携会社を通じて対面のみで行われる上級クラスです。 バス・ヴォッデ講師とクレイグ・ラーマン講師をお薦めします。
 
