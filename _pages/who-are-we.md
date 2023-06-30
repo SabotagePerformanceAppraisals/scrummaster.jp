@@ -37,6 +37,7 @@ excerpt: "環境の変化に適応するための学習性を高める。従業�
 * 斎藤 紀彦 (Norihiko Saito) 様
 * 深澤 祐輝 (Yuki Fukazawa) 様
 * 内藤 聡 (Satoshi Naito) 様
+* 清水 弘毅 (Koki Shimizu) 様
 
 ## ご協力ください <!--Please help!-->
 
