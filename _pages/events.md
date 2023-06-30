@@ -29,7 +29,7 @@ LeSSの理解は、スクラムを正しく理解することから始まりま�
 
 ### CSD研修を探す (認定スクラム実践者研修)
 
-CSDは東京の提携会社を通じて、またはオンラインで教えています。 金井大輝、テリー・リム、エマーソン・ミルズのトレーナーを推薦します。
+CSDは東京の提携会社を通じて、またはオンラインにて開催しております。 私が推薦するトレーナーは、金井大輝、テリー・リム、エマーソン・ミルズです。
 
 | ![Certified Scrum Developer](/images/scrum-alliance-csd-logo.png){: width="300"} | ![Tokyo CSD Class](/images/tokyo-CSD-class.jpg) |
 
@@ -37,7 +37,7 @@ CSDは東京の提携会社を通じて、またはオンラインで教えて�
 
 ### CLP研修を探す (認定LeSS実践者研修)
 
-CLPは、東京のパートナー企業を通じて対面のみで行われる上級クラスです。 バス・ヴォッデ調教師とクレイグ・ラーマン調教師をお勧めします。
+CLPは、東京の提携会社を通じて対面のみで行われる上級クラスです。 バス・ヴォッデ講師とクレイグ・ラーマン講師をお薦めします。
 
 | ![Certified LeSS Practitioner](/images/CLP.png){: width="320"} | ![Tokyo CLP Class](/images/tokyo-CLP-class.jpg) |
 
