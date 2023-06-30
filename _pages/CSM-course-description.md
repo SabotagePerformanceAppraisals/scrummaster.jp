@@ -2,10 +2,11 @@
 title: "CSM + CLB"
 permalink: /CSM
 ---
-## コース概要
 
 
 | ![Certified Scrum Master](/images/scrum-alliance-csm-logo.png){: width="200"} | ![Certified LeSS Basics](/images/certified-less-basics.png){: width="150"} |
+
+## コース概要
 
 本トレーニングは、MJ（マイケル・ジェームズ）とOdd-e Japan の Nate Heinrichs （ネート ハインリックス）が担当し、アクティビティやディスカッションを含め、すべて日本語で行われます。
 
@@ -32,10 +33,7 @@ MJは、シアトル在住のスクラムの専門家で、世界的にもっと
 
 ## メイントレーナーの略歴
 
-
-![MJ](/images/mj_headshot_lowres.jpg){: width="200"}
-
-
+| ![MJ](/images/mj_headshot_lowres.jpg){: width="200"} | ![Certified LeSS Trainer](/images/certified-less-trainer.png){: width="150" } | ![Certified Scrum Trainer](/images/SA_badge_cst.png){: width="190"}  |
 
 マイケル・ジェームズ（Michael James：MJ）
 * Certified Scrum Trainer®：CST®
