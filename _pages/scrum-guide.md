@@ -11,7 +11,7 @@ classes: single
 
 日本語版
 
-このHTMLバージョンのスクラムガイドは、2020年11月版の直接の移植版であり、PDFで入手できます[こちら](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese-2.0.pdf)。
+このHTMLバージョンのスクラムガイドは、2020年11月版の直接の移植版であり、PDFで入手できます[こちら](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)。
 
 * * *
 
