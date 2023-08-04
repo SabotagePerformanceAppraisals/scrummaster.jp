@@ -1,8 +1,8 @@
 ---
-title: 'スプリントレトロスペクティブ'
+title: 'スクラム研修パート６：スプリントレトロスペクティブ'
 ---
 
-[![Sprint Retrospective Training](../images/6-Sprint-Retrospective-jp.png)](https://scrumtraining.jp/6-Sprint-Retrospective/)
+[![スクラム研修パート６：スプリントレトロスペクティブ](../images/6-Sprint-Retrospective-jp.png)](https://scrumtraining.jp/6-Sprint-Retrospective/)
 
 ----
 
