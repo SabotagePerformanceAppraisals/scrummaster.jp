@@ -539,3 +539,6 @@ Kent Beck 氏はこのように言っています。「私達がこれまでで�
 > 次回はスプリントプランニングを取り上げます。
 {: .notice}
 
+----
+
+#### 翻訳：清水 弘毅、Nakato Arase、Satoshi Kumano、榎本 明仁、Nate Heinrichs
