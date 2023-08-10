@@ -410,7 +410,7 @@ MJ:
 
 MJ:
 
-> 大規模スクラム（LeSS）では、オーバーオールレトロスペクティブ（全体ふりかえり）というイベントを追加で実施します。
+> 大規模スクラム（LeSS）では、[オーバーオールレトロスペクティブ](https://less.works/less/framework/overall-retrospective?preferred_lang=jp&setlang=true)（全体ふりかえり）というイベントを追加で実施します。
 > 参加者は、複数のチーム（または選ばれた代表者）、プロダクトオーナー、スクラムマスター、そしてマネージャーという役割がある場合は、マネージャーです。
 > 
 > 参加者が多くなりすぎた場合は、ハリソン・オーエンが広めた「オープンスペース」という手法を使うこともあります。
@@ -422,6 +422,8 @@ MJ:
 {: .notice--info}
 
 <https://scrummaster.jp/downloads/organizational-impediment-form.pdf>
+
+----
 
 # 結論
 
