@@ -112,7 +112,7 @@ analytics:
 author:
   name             : "MJ"
   avatar           : "/images/MJ_headshot_line_drawing_adjusted.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "私が講師を務める次回の認定スクラムマスター研修（CSM）及び認定 LeSS Basics (CLB）研修は、9月04日〜9月8日に開催される予定です。研修の予約は<u><a href=\"/events#カレンダー\">こちら</a></u>よりお願いします。<br/><br/>スクラムについての無料オンライン学習をご利用になりたい方は、<u><a href=\"https://scrumtraining.jp/\">こちら</a></u>をクリックしてください。"
+  bio              : "私が講師を務める次回の認定スクラムマスター研修（CSM）及び認定 LeSS Basics (CLB）研修は、2023年10月23日に開催される予定です。研修の予約は<u><a href=\"/events#カレンダー\">こちら</a></u>よりお願いします。<br/><br/>スクラムについての無料オンライン学習をご利用になりたい方は、<u><a href=\"https://scrumtraining.jp/\">こちら</a></u>をクリックしてください。"
   location         :
   email            : "mj@odd-e.com"
   links:
