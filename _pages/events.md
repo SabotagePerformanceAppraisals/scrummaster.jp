@@ -8,10 +8,12 @@ toc: true
 
 ### カレンダー
 
-| 日程       |                  研修                  |   所在地  | 言語 | 価格 (税込み) |                             詳細                             |
+| 日程       |                  研修                  |   言語 | 所在地 | 価格 (税込み) |                             詳細                             |
 | :----------:|:------------------------------------------:|:-----------:|:--------------------:|:---------------------------------------------------------------:|
-| 2023年7月31日～8月4日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) 日本語 | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^price]      | [詳細](https://training.tech-kai.com/tech/user/courses/326) |
-| 2023年9月4日～9月8日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) 日本語 | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^price]      | [詳細](https://training.tech-kai.com/tech/user/courses/331) |
+| 2023年9月6日～9月8日 |認定LeSS実践者研修（CLP）トレーナー : Bas Vodde | 日本語 | CIVI研修センター日本橋 |     ¥330,000 [^price]      | [詳細](https://www.odd-e.jp/training/course-detail/241) |
+| 2023年9月11日～9月13日 |認定LeSS実践者研修（CLP）トレーナー : Bas Vodde | 日本語 | CIVI研修センター日本橋 |     ¥330,000 [^price]      | [詳細](https://www.odd-e.jp/training/course-detail/250) |
+| 2023年10月23日～10月27日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) 日本語 | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^price]      | [詳細](https://training.tech-kai.com/tech/user/courses/376) |
+| 2023年12月18日～12月22日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) 日本語 | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^price]      | [詳細](https://training.tech-kai.com/tech/user/courses/381) |
 
 ### CSM研修  (認定スクラムマスター研修)
 詳しくは、[こちら](/CSM/)をご覧ください。
