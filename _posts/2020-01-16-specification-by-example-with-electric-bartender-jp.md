@@ -99,3 +99,7 @@ public class StepDefs {
     }
 }
 ~~~
+
+## 金井大輝のこのレッスンもご覧ください。
+
+{% include video id="owaO2liYtKI?rel=0" provider="youtube" %}
