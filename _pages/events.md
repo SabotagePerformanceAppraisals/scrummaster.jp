@@ -10,10 +10,12 @@ toc: true
 
 | 日程       |                  研修                  |   言語 | 所在地 | 価格 (税込み) |                             詳細                             |
 | :----------:|:------------------------------------------:|:-----------:|:--------------------:|:---------------------------------------------------------------:|
-| 2023年9月6日～9月8日 |認定LeSS実践者研修（CLP）トレーナー : Bas Vodde | 日本語 | CIVI研修センター日本橋 |     ¥330,000 [^price]      | [詳細](https://www.odd-e.jp/training/course-detail/241) |
-| 2023年9月11日～9月13日 |認定LeSS実践者研修（CLP）トレーナー : Bas Vodde | 日本語 | CIVI研修センター日本橋 |     ¥330,000 [^price]      | [詳細](https://www.odd-e.jp/training/course-detail/250) |
-| 2023年10月23日～10月27日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) 日本語 | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^price]      | [詳細](https://training.tech-kai.com/tech/user/courses/376) |
-| 2023年12月18日～12月22日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) 日本語 | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^price]      | [詳細](https://training.tech-kai.com/tech/user/courses/381) |
+| 2023年9月6日～9月8日 |認定LeSS実践者研修（CLP）トレーナー : Bas Vodde | 日本語 | CIVI研修センター日本橋 |     ¥330,000 [^yen]      | [詳細](https://www.odd-e.jp/training/course-detail/241) |
+| 2023年9月11日～9月13日 |認定LeSS実践者研修（CLP）トレーナー : Bas Vodde | 日本語 | CIVI研修センター日本橋 |     ¥330,000 [^yen]      | [詳細](https://www.odd-e.jp/training/course-detail/250) |
+| 2023年10月23日～10月27日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB)  | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^usd]      | [詳細](https://training.tech-kai.com/tech/user/courses/376) |
+| 2023年10月27日 | LINEヤフー Agile「LeSSの夜明け〜Good morning!〜」#1 大阪編 | 日本語 | 大阪 | ￥5000[^yen] | [詳細](https://lycorptech-jp.connpass.com/event/298347/) |
+| 2023年11月22日 | LINEヤフー Agile「LeSSの夜明け〜Good morning!〜」#2 東京編 | 日本語 | 東京 | ￥5000[^yen] | [詳細](https://lycorptech-jp.connpass.com/event/299590/) |
+| 2023年12月18日～12月22日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^usd]      | [詳細](https://training.tech-kai.com/tech/user/courses/381) |
 
 ### CSM研修  (認定スクラムマスター研修)
 詳しくは、[こちら](/CSM/)をご覧ください。
@@ -53,5 +55,6 @@ CLPは、東京の提携会社を通じて対面のみで行われる上級ク�
 ---
 
 ---
-[^price]: 価格は米ドル、税込みです。
+[^usd]: 価格は米ドル、税込みです。
+[^yen]: 価格は円、税込みです。
 [^virtual]: このセッションはZoomとMiroを使って行います。 時間の約半分はペアやチームで交流します。研修は、休憩を含め午前9時から午後3時までです。
