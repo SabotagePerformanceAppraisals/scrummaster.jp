@@ -16,6 +16,7 @@ toc: true
 | 2023年10月27日 | LINEヤフー Agile「LeSSの夜明け〜Good morning!〜」#1 大阪編 | 日本語 | 大阪 | ￥5000[^yen] | [詳細](https://lycorptech-jp.connpass.com/event/298347/) |
 | 2023年11月22日 | LINEヤフー Agile「LeSSの夜明け〜Good morning!〜」#2 東京編 | 日本語 | 東京 | ￥5000[^yen] | [詳細](https://lycorptech-jp.connpass.com/event/299590/) |
 | 2023年12月18日～12月22日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) | 日本語 | ライブ・オンライン[^virtual] |     $2400 [^usd]      | [詳細](https://training.tech-kai.com/tech/user/courses/381) |
+| 2024年6月3日～6月7日 | 認定スクラムマスター(CSM) + 認定LeSS基礎研修(CLB) | 日本語 | ライブ・オンライン[^virtual] |      ¥330,000 [^yen]      | [詳細](https://training.tech-kai.com/tech/user/courses/586) |
 
 ### CSM研修  (認定スクラムマスター研修)
 詳しくは、[こちら](/CSM/)をご覧ください。
